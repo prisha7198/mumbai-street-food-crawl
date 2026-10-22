@@ -1,0 +1,170 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------ tokens
+   RGB channels so Tailwind can apply opacity (bg-surface/70 etc). */
+:root {
+  --bg: 251 251 253;          /* #FBFBFD */
+  --surface: 255 255 255;     /* #FFFFFF */
+  --elevated: 255 255 255;    /* used translucent with blur */
+  --text: 29 29 31;           /* #1D1D1F */
+  --text-2: 110 110 115;      /* #6E6E73 */
+  --text-3: 161 161 166;      /* #A1A1A6 */
+  --hairline: 229 229 234;    /* #E5E5EA */
+  --fill: 118 118 128;        /* system fill, used at low opacity */
+  --thumb: 255 255 255;       /* segmented control thumb */
+  --accent: 242 183 5;        /* #F2B705 kaali-peeli yellow */
+  --ring: 176 132 0;          /* darker yellow so the focus ring passes 3:1 on white */
+  --button: 29 29 31;
+  --button-text: 255 255 255;
+  --open: 48 164 108;         /* #30A46C */
+  --closed: 217 63 63;        /* #D93F3F */
+  --ease: cubic-bezier(0.32, 0.72, 0, 1);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: 0 0 0;
+    --surface: 28 28 30;      /* #1C1C1E */
+    --elevated: 44 44 46;     /* #2C2C2E */
+    --text: 245 245 247;      /* #F5F5F7 */
+    --text-2: 152 152 157;    /* #98989D */
+    --text-3: 99 99 102;
+    --hairline: 56 56 58;     /* #38383A */
+    --fill: 120 120 128;
+    --thumb: 99 99 102;
+    --ring: 242 183 5;
+    --button: 245 245 247;
+    --button-text: 0 0 0;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: 0 0 0;
+  --surface: 28 28 30;
+  --elevated: 44 44 46;
+  --text: 245 245 247;
+  --text-2: 152 152 157;
+  --text-3: 99 99 102;
+  --hairline: 56 56 58;
+  --fill: 120 120 128;
+  --thumb: 99 99 102;
+  --ring: 242 183 5;
+  --button: 245 245 247;
+  --button-text: 0 0 0;
+  color-scheme: dark;
+}
+
+/* ------------------------------------------------------------------ base */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: rgb(var(--bg));
+  color: rgb(var(--text));
+  font-family: "SF Pro Text", "SF Pro Display", -apple-system, BlinkMacSystemFont, "Instrument Sans", system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+
+:focus {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 2px solid rgb(var(--ring));
+  outline-offset: 2px;
+}
+
+::selection {
+  background: rgb(var(--accent) / 0.35);
+}
+
+@layer utilities {
+  .tnum {
+    font-variant-numeric: tabular-nums;
+  }
+  .glass {
+    background: rgb(var(--elevated) / 0.72);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    backdrop-filter: blur(20px) saturate(180%);
+  }
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .hairline-b {
+    box-shadow: inset 0 -1px 0 rgb(var(--hairline));
+  }
+}
+
+/* ------------------------------------------------------------------ map */
+.leaflet-container {
+  font-family: inherit;
+  background: rgb(var(--bg));
+}
+
+.leaflet-control-attribution {
+  font-size: 10px;
+  background: rgb(var(--elevated) / 0.7) !important;
+  color: rgb(var(--text-2));
+  -webkit-backdrop-filter: blur(20px);
+  backdrop-filter: blur(20px);
+  border-radius: 8px 0 0 0;
+  padding: 0 6px;
+}
+
+.leaflet-control-attribution a {
+  color: rgb(var(--text-2));
+}
+
+.leaflet-control-zoom {
+  border: none !important;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08) !important;
+  border-radius: 10px !important;
+  overflow: hidden;
+}
+
+.leaflet-control-zoom a {
+  background: rgb(var(--elevated) / 0.85) !important;
+  color: rgb(var(--text)) !important;
+  border-color: rgb(var(--hairline)) !important;
+  -webkit-backdrop-filter: blur(20px);
+  backdrop-filter: blur(20px);
+  width: 36px !important;
+  height: 36px !important;
+  line-height: 36px !important;
+}
+
+.pin-host {
+  background: none;
+  border: none;
+}
+
+.pin-host:focus-visible {
+  outline: none;
+}
+
+.pin-host:focus-visible .pin {
+  outline: 2px solid rgb(var(--ring));
+  outline-offset: 3px;
+}

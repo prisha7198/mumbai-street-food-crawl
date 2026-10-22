@@ -1,0 +1,9470 @@
+[
+  {
+    "user_id": "u01",
+    "stall_id": "s144",
+    "rating": 3,
+    "visited_on": "2025-06-05"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s033",
+    "rating": 5,
+    "visited_on": "2026-03-03"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s071",
+    "rating": 5,
+    "visited_on": "2026-07-23"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s039",
+    "rating": 4,
+    "visited_on": "2025-10-30"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s169",
+    "rating": 3,
+    "visited_on": "2026-01-20"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s152",
+    "rating": 3,
+    "visited_on": "2025-08-15"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s156",
+    "rating": 4,
+    "visited_on": "2026-05-07"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s096",
+    "rating": 4,
+    "visited_on": "2026-08-09"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s163",
+    "rating": 3,
+    "visited_on": "2026-04-03"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s142",
+    "rating": 2,
+    "visited_on": "2025-11-11"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s155",
+    "rating": 3,
+    "visited_on": "2025-08-03"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s146",
+    "rating": 5,
+    "visited_on": "2025-10-19"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s066",
+    "rating": 5,
+    "visited_on": "2026-01-31"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s030",
+    "rating": 2,
+    "visited_on": "2026-04-20"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s141",
+    "rating": 3,
+    "visited_on": "2026-05-27"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s151",
+    "rating": 2,
+    "visited_on": "2025-12-10"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s087",
+    "rating": 4,
+    "visited_on": "2025-08-18"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s149",
+    "rating": 3,
+    "visited_on": "2026-07-29"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s154",
+    "rating": 4,
+    "visited_on": "2026-09-22"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s145",
+    "rating": 2,
+    "visited_on": "2026-07-20"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s148",
+    "rating": 3,
+    "visited_on": "2026-09-16"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s170",
+    "rating": 4,
+    "visited_on": "2026-08-18"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s017",
+    "rating": 4,
+    "visited_on": "2026-06-08"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s085",
+    "rating": 3,
+    "visited_on": "2025-12-18"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s120",
+    "rating": 3,
+    "visited_on": "2026-09-11"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s118",
+    "rating": 5,
+    "visited_on": "2026-08-09"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s134",
+    "rating": 3,
+    "visited_on": "2025-12-18"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s069",
+    "rating": 4,
+    "visited_on": "2025-11-20"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s150",
+    "rating": 2,
+    "visited_on": "2025-11-26"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s143",
+    "rating": 2,
+    "visited_on": "2026-06-23"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s147",
+    "rating": 5,
+    "visited_on": "2026-06-08"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s034",
+    "rating": 3,
+    "visited_on": "2025-10-23"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s036",
+    "rating": 4,
+    "visited_on": "2026-05-25"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s001",
+    "rating": 5,
+    "visited_on": "2026-08-13"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s131",
+    "rating": 2,
+    "visited_on": "2025-11-13"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s043",
+    "rating": 3,
+    "visited_on": "2026-06-21"
+  },
+  {
+    "user_id": "u01",
+    "stall_id": "s124",
+    "rating": 5,
+    "visited_on": "2025-06-28"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s044",
+    "rating": 4,
+    "visited_on": "2025-07-14"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s103",
+    "rating": 5,
+    "visited_on": "2025-12-04"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s068",
+    "rating": 4,
+    "visited_on": "2026-03-06"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s064",
+    "rating": 4,
+    "visited_on": "2026-05-03"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s066",
+    "rating": 5,
+    "visited_on": "2025-06-01"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s003",
+    "rating": 3,
+    "visited_on": "2026-02-21"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s062",
+    "rating": 4,
+    "visited_on": "2026-09-07"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s043",
+    "rating": 5,
+    "visited_on": "2026-01-14"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s073",
+    "rating": 1,
+    "visited_on": "2025-08-11"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s032",
+    "rating": 3,
+    "visited_on": "2026-02-23"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s075",
+    "rating": 4,
+    "visited_on": "2026-09-10"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s060",
+    "rating": 2,
+    "visited_on": "2026-03-03"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s076",
+    "rating": 4,
+    "visited_on": "2026-02-17"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s127",
+    "rating": 4,
+    "visited_on": "2026-07-25"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s089",
+    "rating": 4,
+    "visited_on": "2025-06-23"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s081",
+    "rating": 5,
+    "visited_on": "2025-11-01"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s030",
+    "rating": 2,
+    "visited_on": "2026-08-13"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s120",
+    "rating": 4,
+    "visited_on": "2026-04-05"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s074",
+    "rating": 1,
+    "visited_on": "2026-03-10"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s155",
+    "rating": 4,
+    "visited_on": "2025-08-05"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s069",
+    "rating": 3,
+    "visited_on": "2026-06-09"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s057",
+    "rating": 2,
+    "visited_on": "2025-10-09"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s063",
+    "rating": 2,
+    "visited_on": "2025-10-12"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s061",
+    "rating": 2,
+    "visited_on": "2025-12-22"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s115",
+    "rating": 4,
+    "visited_on": "2026-01-20"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s059",
+    "rating": 4,
+    "visited_on": "2026-01-04"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s114",
+    "rating": 5,
+    "visited_on": "2026-05-22"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s160",
+    "rating": 2,
+    "visited_on": "2026-04-19"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s153",
+    "rating": 4,
+    "visited_on": "2026-06-11"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s041",
+    "rating": 4,
+    "visited_on": "2026-04-27"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s042",
+    "rating": 4,
+    "visited_on": "2025-09-07"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s028",
+    "rating": 4,
+    "visited_on": "2026-04-28"
+  },
+  {
+    "user_id": "u02",
+    "stall_id": "s010",
+    "rating": 3,
+    "visited_on": "2026-07-26"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s151",
+    "rating": 3,
+    "visited_on": "2026-02-09"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s101",
+    "rating": 4,
+    "visited_on": "2025-12-12"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s134",
+    "rating": 3,
+    "visited_on": "2025-11-21"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s122",
+    "rating": 4,
+    "visited_on": "2026-09-11"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s117",
+    "rating": 3,
+    "visited_on": "2026-08-10"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s114",
+    "rating": 3,
+    "visited_on": "2026-06-28"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s123",
+    "rating": 3,
+    "visited_on": "2026-02-03"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s118",
+    "rating": 2,
+    "visited_on": "2025-10-29"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s048",
+    "rating": 3,
+    "visited_on": "2026-04-20"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s069",
+    "rating": 3,
+    "visited_on": "2026-03-19"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s116",
+    "rating": 2,
+    "visited_on": "2026-09-19"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s042",
+    "rating": 4,
+    "visited_on": "2026-09-21"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s124",
+    "rating": 3,
+    "visited_on": "2026-09-01"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s148",
+    "rating": 2,
+    "visited_on": "2025-06-19"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s096",
+    "rating": 5,
+    "visited_on": "2026-08-09"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s034",
+    "rating": 1,
+    "visited_on": "2026-02-05"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s054",
+    "rating": 3,
+    "visited_on": "2026-01-22"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s125",
+    "rating": 3,
+    "visited_on": "2025-11-16"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s159",
+    "rating": 2,
+    "visited_on": "2025-11-27"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s147",
+    "rating": 4,
+    "visited_on": "2026-08-30"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s050",
+    "rating": 2,
+    "visited_on": "2025-06-05"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s112",
+    "rating": 2,
+    "visited_on": "2025-07-22"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s085",
+    "rating": 3,
+    "visited_on": "2026-02-26"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s063",
+    "rating": 4,
+    "visited_on": "2026-02-19"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s110",
+    "rating": 4,
+    "visited_on": "2026-09-11"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s119",
+    "rating": 2,
+    "visited_on": "2026-02-05"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s084",
+    "rating": 5,
+    "visited_on": "2025-10-07"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s126",
+    "rating": 3,
+    "visited_on": "2025-09-24"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s023",
+    "rating": 2,
+    "visited_on": "2025-12-04"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s053",
+    "rating": 3,
+    "visited_on": "2026-01-06"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s033",
+    "rating": 4,
+    "visited_on": "2025-10-16"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s172",
+    "rating": 4,
+    "visited_on": "2025-07-26"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s003",
+    "rating": 3,
+    "visited_on": "2026-01-11"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s131",
+    "rating": 2,
+    "visited_on": "2025-08-22"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s049",
+    "rating": 4,
+    "visited_on": "2025-06-03"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s070",
+    "rating": 4,
+    "visited_on": "2025-12-01"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s002",
+    "rating": 3,
+    "visited_on": "2025-07-27"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s015",
+    "rating": 3,
+    "visited_on": "2025-09-06"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s062",
+    "rating": 4,
+    "visited_on": "2026-01-02"
+  },
+  {
+    "user_id": "u03",
+    "stall_id": "s154",
+    "rating": 2,
+    "visited_on": "2026-06-16"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s052",
+    "rating": 3,
+    "visited_on": "2026-06-25"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s119",
+    "rating": 4,
+    "visited_on": "2025-09-12"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s082",
+    "rating": 4,
+    "visited_on": "2025-08-05"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s036",
+    "rating": 3,
+    "visited_on": "2025-09-07"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s159",
+    "rating": 3,
+    "visited_on": "2026-08-31"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s085",
+    "rating": 5,
+    "visited_on": "2026-08-24"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s125",
+    "rating": 3,
+    "visited_on": "2026-03-14"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s101",
+    "rating": 3,
+    "visited_on": "2025-11-25"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s028",
+    "rating": 4,
+    "visited_on": "2026-06-03"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s043",
+    "rating": 4,
+    "visited_on": "2025-07-31"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s023",
+    "rating": 3,
+    "visited_on": "2026-01-01"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s072",
+    "rating": 3,
+    "visited_on": "2026-02-24"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s033",
+    "rating": 5,
+    "visited_on": "2025-06-12"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s137",
+    "rating": 4,
+    "visited_on": "2025-08-25"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s112",
+    "rating": 4,
+    "visited_on": "2025-08-06"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s030",
+    "rating": 2,
+    "visited_on": "2025-10-27"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s044",
+    "rating": 5,
+    "visited_on": "2026-07-12"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s075",
+    "rating": 5,
+    "visited_on": "2026-05-22"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s129",
+    "rating": 5,
+    "visited_on": "2026-02-09"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s048",
+    "rating": 5,
+    "visited_on": "2026-05-17"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s049",
+    "rating": 2,
+    "visited_on": "2025-07-09"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s078",
+    "rating": 4,
+    "visited_on": "2025-08-24"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s141",
+    "rating": 3,
+    "visited_on": "2026-03-15"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s032",
+    "rating": 3,
+    "visited_on": "2026-07-05"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s063",
+    "rating": 3,
+    "visited_on": "2025-09-14"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s034",
+    "rating": 4,
+    "visited_on": "2025-09-03"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s006",
+    "rating": 5,
+    "visited_on": "2026-03-31"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s076",
+    "rating": 4,
+    "visited_on": "2026-05-23"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s116",
+    "rating": 5,
+    "visited_on": "2026-02-18"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s136",
+    "rating": 4,
+    "visited_on": "2026-01-20"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s098",
+    "rating": 4,
+    "visited_on": "2025-10-11"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s031",
+    "rating": 5,
+    "visited_on": "2025-11-03"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s020",
+    "rating": 4,
+    "visited_on": "2025-10-16"
+  },
+  {
+    "user_id": "u04",
+    "stall_id": "s109",
+    "rating": 3,
+    "visited_on": "2026-03-10"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s142",
+    "rating": 3,
+    "visited_on": "2026-06-09"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s076",
+    "rating": 5,
+    "visited_on": "2025-09-01"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s145",
+    "rating": 3,
+    "visited_on": "2025-08-23"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s087",
+    "rating": 3,
+    "visited_on": "2026-08-28"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s084",
+    "rating": 3,
+    "visited_on": "2026-04-08"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s014",
+    "rating": 3,
+    "visited_on": "2025-09-05"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s073",
+    "rating": 4,
+    "visited_on": "2025-10-04"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s064",
+    "rating": 3,
+    "visited_on": "2026-01-19"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s002",
+    "rating": 5,
+    "visited_on": "2025-07-22"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s114",
+    "rating": 4,
+    "visited_on": "2026-06-06"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s149",
+    "rating": 2,
+    "visited_on": "2026-07-19"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s122",
+    "rating": 5,
+    "visited_on": "2025-06-07"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s094",
+    "rating": 3,
+    "visited_on": "2025-06-11"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s068",
+    "rating": 3,
+    "visited_on": "2025-07-27"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s075",
+    "rating": 5,
+    "visited_on": "2026-04-26"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s141",
+    "rating": 3,
+    "visited_on": "2026-09-22"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s028",
+    "rating": 4,
+    "visited_on": "2025-07-13"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s119",
+    "rating": 4,
+    "visited_on": "2025-10-16"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s077",
+    "rating": 3,
+    "visited_on": "2025-06-07"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s164",
+    "rating": 3,
+    "visited_on": "2026-07-11"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s155",
+    "rating": 5,
+    "visited_on": "2025-07-25"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s153",
+    "rating": 3,
+    "visited_on": "2026-03-05"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s148",
+    "rating": 3,
+    "visited_on": "2026-05-29"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s124",
+    "rating": 4,
+    "visited_on": "2025-07-14"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s156",
+    "rating": 3,
+    "visited_on": "2026-03-16"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s146",
+    "rating": 4,
+    "visited_on": "2026-08-31"
+  },
+  {
+    "user_id": "u05",
+    "stall_id": "s045",
+    "rating": 4,
+    "visited_on": "2025-11-17"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s113",
+    "rating": 4,
+    "visited_on": "2026-06-11"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s035",
+    "rating": 5,
+    "visited_on": "2025-12-08"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s021",
+    "rating": 4,
+    "visited_on": "2025-06-28"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s117",
+    "rating": 3,
+    "visited_on": "2025-07-08"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s126",
+    "rating": 3,
+    "visited_on": "2026-01-31"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s002",
+    "rating": 5,
+    "visited_on": "2025-06-16"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s007",
+    "rating": 2,
+    "visited_on": "2025-08-15"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s119",
+    "rating": 3,
+    "visited_on": "2025-07-10"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s123",
+    "rating": 3,
+    "visited_on": "2025-06-07"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s124",
+    "rating": 3,
+    "visited_on": "2025-08-16"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s029",
+    "rating": 3,
+    "visited_on": "2026-06-27"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s122",
+    "rating": 4,
+    "visited_on": "2026-06-19"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s118",
+    "rating": 3,
+    "visited_on": "2026-02-26"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s022",
+    "rating": 3,
+    "visited_on": "2025-12-28"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s155",
+    "rating": 4,
+    "visited_on": "2026-06-05"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s100",
+    "rating": 4,
+    "visited_on": "2026-05-22"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s090",
+    "rating": 3,
+    "visited_on": "2025-06-07"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s070",
+    "rating": 4,
+    "visited_on": "2026-08-26"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s170",
+    "rating": 3,
+    "visited_on": "2026-04-25"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s020",
+    "rating": 4,
+    "visited_on": "2026-02-13"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s039",
+    "rating": 3,
+    "visited_on": "2025-08-22"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s038",
+    "rating": 5,
+    "visited_on": "2026-05-15"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s167",
+    "rating": 4,
+    "visited_on": "2026-08-23"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s128",
+    "rating": 3,
+    "visited_on": "2025-10-11"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s114",
+    "rating": 4,
+    "visited_on": "2026-09-14"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s115",
+    "rating": 2,
+    "visited_on": "2025-09-25"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s120",
+    "rating": 3,
+    "visited_on": "2026-01-03"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s111",
+    "rating": 4,
+    "visited_on": "2025-07-18"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s086",
+    "rating": 4,
+    "visited_on": "2026-02-23"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s099",
+    "rating": 2,
+    "visited_on": "2026-06-16"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s088",
+    "rating": 5,
+    "visited_on": "2025-09-17"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s168",
+    "rating": 5,
+    "visited_on": "2025-12-18"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s121",
+    "rating": 3,
+    "visited_on": "2025-09-03"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s016",
+    "rating": 4,
+    "visited_on": "2026-04-06"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s093",
+    "rating": 2,
+    "visited_on": "2026-08-05"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s036",
+    "rating": 4,
+    "visited_on": "2026-01-31"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s142",
+    "rating": 3,
+    "visited_on": "2025-11-08"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s108",
+    "rating": 3,
+    "visited_on": "2025-12-12"
+  },
+  {
+    "user_id": "u06",
+    "stall_id": "s062",
+    "rating": 4,
+    "visited_on": "2025-08-24"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s166",
+    "rating": 3,
+    "visited_on": "2026-05-01"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s062",
+    "rating": 3,
+    "visited_on": "2025-08-12"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s128",
+    "rating": 2,
+    "visited_on": "2026-02-12"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s139",
+    "rating": 2,
+    "visited_on": "2026-02-20"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s008",
+    "rating": 2,
+    "visited_on": "2026-02-23"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s129",
+    "rating": 3,
+    "visited_on": "2026-09-20"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s004",
+    "rating": 3,
+    "visited_on": "2025-08-07"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s127",
+    "rating": 2,
+    "visited_on": "2025-11-21"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s080",
+    "rating": 1,
+    "visited_on": "2026-01-07"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s130",
+    "rating": 4,
+    "visited_on": "2025-06-21"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s002",
+    "rating": 3,
+    "visited_on": "2025-12-16"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s145",
+    "rating": 2,
+    "visited_on": "2025-10-01"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s131",
+    "rating": 2,
+    "visited_on": "2025-07-09"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s132",
+    "rating": 4,
+    "visited_on": "2025-08-18"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s102",
+    "rating": 1,
+    "visited_on": "2025-07-20"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s070",
+    "rating": 2,
+    "visited_on": "2026-07-18"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s092",
+    "rating": 2,
+    "visited_on": "2025-11-06"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s025",
+    "rating": 1,
+    "visited_on": "2026-03-08"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s138",
+    "rating": 2,
+    "visited_on": "2026-09-02"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s096",
+    "rating": 3,
+    "visited_on": "2025-07-15"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s039",
+    "rating": 1,
+    "visited_on": "2025-08-26"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s136",
+    "rating": 2,
+    "visited_on": "2026-09-22"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s010",
+    "rating": 2,
+    "visited_on": "2026-03-23"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s024",
+    "rating": 2,
+    "visited_on": "2025-12-04"
+  },
+  {
+    "user_id": "u07",
+    "stall_id": "s060",
+    "rating": 1,
+    "visited_on": "2026-05-30"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s074",
+    "rating": 3,
+    "visited_on": "2025-09-10"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s114",
+    "rating": 4,
+    "visited_on": "2026-04-12"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s029",
+    "rating": 4,
+    "visited_on": "2025-08-14"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s146",
+    "rating": 2,
+    "visited_on": "2026-09-24"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s066",
+    "rating": 5,
+    "visited_on": "2026-06-11"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s103",
+    "rating": 5,
+    "visited_on": "2025-11-10"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s099",
+    "rating": 3,
+    "visited_on": "2025-06-08"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s034",
+    "rating": 2,
+    "visited_on": "2025-08-15"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s081",
+    "rating": 5,
+    "visited_on": "2026-02-11"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s072",
+    "rating": 4,
+    "visited_on": "2026-05-12"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s052",
+    "rating": 4,
+    "visited_on": "2025-12-26"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s011",
+    "rating": 2,
+    "visited_on": "2026-01-17"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s083",
+    "rating": 4,
+    "visited_on": "2026-08-01"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s062",
+    "rating": 4,
+    "visited_on": "2026-04-24"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s064",
+    "rating": 3,
+    "visited_on": "2026-03-24"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s023",
+    "rating": 4,
+    "visited_on": "2025-09-05"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s073",
+    "rating": 3,
+    "visited_on": "2026-01-02"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s156",
+    "rating": 4,
+    "visited_on": "2026-04-04"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s102",
+    "rating": 2,
+    "visited_on": "2025-12-11"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s063",
+    "rating": 3,
+    "visited_on": "2025-09-06"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s038",
+    "rating": 5,
+    "visited_on": "2026-05-14"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s065",
+    "rating": 3,
+    "visited_on": "2026-07-22"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s016",
+    "rating": 3,
+    "visited_on": "2025-12-04"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s093",
+    "rating": 4,
+    "visited_on": "2026-02-13"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s122",
+    "rating": 4,
+    "visited_on": "2026-07-25"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s109",
+    "rating": 3,
+    "visited_on": "2026-04-29"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s061",
+    "rating": 3,
+    "visited_on": "2026-01-20"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s135",
+    "rating": 3,
+    "visited_on": "2026-07-30"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s067",
+    "rating": 3,
+    "visited_on": "2026-03-05"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s060",
+    "rating": 1,
+    "visited_on": "2025-11-19"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s068",
+    "rating": 5,
+    "visited_on": "2025-07-29"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s070",
+    "rating": 3,
+    "visited_on": "2025-12-09"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s124",
+    "rating": 3,
+    "visited_on": "2025-08-30"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s113",
+    "rating": 5,
+    "visited_on": "2026-01-10"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s112",
+    "rating": 3,
+    "visited_on": "2025-12-13"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s071",
+    "rating": 4,
+    "visited_on": "2026-05-15"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s144",
+    "rating": 4,
+    "visited_on": "2026-01-10"
+  },
+  {
+    "user_id": "u08",
+    "stall_id": "s153",
+    "rating": 2,
+    "visited_on": "2026-09-24"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s027",
+    "rating": 3,
+    "visited_on": "2025-09-27"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s021",
+    "rating": 3,
+    "visited_on": "2026-02-14"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s161",
+    "rating": 5,
+    "visited_on": "2025-07-31"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s038",
+    "rating": 2,
+    "visited_on": "2026-08-06"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s035",
+    "rating": 1,
+    "visited_on": "2026-06-26"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s009",
+    "rating": 4,
+    "visited_on": "2026-03-11"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s020",
+    "rating": 4,
+    "visited_on": "2025-08-21"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s036",
+    "rating": 3,
+    "visited_on": "2025-07-18"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s090",
+    "rating": 2,
+    "visited_on": "2025-06-14"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s119",
+    "rating": 2,
+    "visited_on": "2026-03-31"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s151",
+    "rating": 4,
+    "visited_on": "2025-08-18"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s032",
+    "rating": 3,
+    "visited_on": "2026-09-15"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s130",
+    "rating": 4,
+    "visited_on": "2025-07-11"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s029",
+    "rating": 3,
+    "visited_on": "2026-06-11"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s034",
+    "rating": 1,
+    "visited_on": "2025-08-06"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s002",
+    "rating": 5,
+    "visited_on": "2026-07-04"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s107",
+    "rating": 2,
+    "visited_on": "2025-12-01"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s133",
+    "rating": 3,
+    "visited_on": "2025-09-22"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s154",
+    "rating": 3,
+    "visited_on": "2025-10-31"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s026",
+    "rating": 2,
+    "visited_on": "2026-06-07"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s111",
+    "rating": 3,
+    "visited_on": "2026-07-05"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s033",
+    "rating": 4,
+    "visited_on": "2025-10-12"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s148",
+    "rating": 3,
+    "visited_on": "2026-05-04"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s149",
+    "rating": 4,
+    "visited_on": "2025-08-13"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s045",
+    "rating": 3,
+    "visited_on": "2026-04-18"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s143",
+    "rating": 5,
+    "visited_on": "2026-08-18"
+  },
+  {
+    "user_id": "u09",
+    "stall_id": "s162",
+    "rating": 4,
+    "visited_on": "2025-07-23"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s141",
+    "rating": 3,
+    "visited_on": "2025-11-07"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s043",
+    "rating": 4,
+    "visited_on": "2025-08-24"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s044",
+    "rating": 4,
+    "visited_on": "2026-02-05"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s054",
+    "rating": 1,
+    "visited_on": "2026-01-08"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s064",
+    "rating": 3,
+    "visited_on": "2026-06-18"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s128",
+    "rating": 2,
+    "visited_on": "2025-10-18"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s041",
+    "rating": 3,
+    "visited_on": "2026-04-07"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s052",
+    "rating": 3,
+    "visited_on": "2025-12-14"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s049",
+    "rating": 2,
+    "visited_on": "2025-12-09"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s109",
+    "rating": 3,
+    "visited_on": "2026-09-03"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s057",
+    "rating": 3,
+    "visited_on": "2025-08-25"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s144",
+    "rating": 4,
+    "visited_on": "2026-08-30"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s008",
+    "rating": 3,
+    "visited_on": "2026-03-28"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s146",
+    "rating": 3,
+    "visited_on": "2025-12-27"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s162",
+    "rating": 3,
+    "visited_on": "2026-04-27"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s055",
+    "rating": 4,
+    "visited_on": "2026-02-27"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s039",
+    "rating": 4,
+    "visited_on": "2025-09-01"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s122",
+    "rating": 4,
+    "visited_on": "2026-07-20"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s045",
+    "rating": 2,
+    "visited_on": "2025-12-01"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s050",
+    "rating": 2,
+    "visited_on": "2025-10-04"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s056",
+    "rating": 4,
+    "visited_on": "2025-12-08"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s114",
+    "rating": 4,
+    "visited_on": "2025-08-14"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s120",
+    "rating": 4,
+    "visited_on": "2025-11-11"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s098",
+    "rating": 4,
+    "visited_on": "2026-05-19"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s076",
+    "rating": 4,
+    "visited_on": "2026-01-25"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s047",
+    "rating": 3,
+    "visited_on": "2026-03-18"
+  },
+  {
+    "user_id": "u10",
+    "stall_id": "s034",
+    "rating": 1,
+    "visited_on": "2026-03-15"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s163",
+    "rating": 2,
+    "visited_on": "2025-10-11"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s049",
+    "rating": 4,
+    "visited_on": "2025-06-25"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s020",
+    "rating": 4,
+    "visited_on": "2025-11-03"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s148",
+    "rating": 4,
+    "visited_on": "2026-04-10"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s149",
+    "rating": 4,
+    "visited_on": "2026-07-11"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s167",
+    "rating": 3,
+    "visited_on": "2025-08-27"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s158",
+    "rating": 2,
+    "visited_on": "2026-09-17"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s150",
+    "rating": 2,
+    "visited_on": "2025-08-04"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s165",
+    "rating": 4,
+    "visited_on": "2025-11-11"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s050",
+    "rating": 5,
+    "visited_on": "2026-08-29"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s106",
+    "rating": 3,
+    "visited_on": "2026-08-10"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s089",
+    "rating": 5,
+    "visited_on": "2026-01-15"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s100",
+    "rating": 4,
+    "visited_on": "2026-05-09"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s157",
+    "rating": 3,
+    "visited_on": "2026-03-23"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s169",
+    "rating": 5,
+    "visited_on": "2026-01-31"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s160",
+    "rating": 2,
+    "visited_on": "2025-11-12"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s129",
+    "rating": 2,
+    "visited_on": "2026-07-01"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s095",
+    "rating": 4,
+    "visited_on": "2025-10-14"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s168",
+    "rating": 4,
+    "visited_on": "2026-06-28"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s171",
+    "rating": 3,
+    "visited_on": "2026-03-13"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s146",
+    "rating": 4,
+    "visited_on": "2026-08-02"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s034",
+    "rating": 3,
+    "visited_on": "2026-06-12"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s046",
+    "rating": 3,
+    "visited_on": "2026-08-13"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s134",
+    "rating": 3,
+    "visited_on": "2026-02-09"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s159",
+    "rating": 3,
+    "visited_on": "2025-07-01"
+  },
+  {
+    "user_id": "u11",
+    "stall_id": "s014",
+    "rating": 3,
+    "visited_on": "2026-01-26"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s004",
+    "rating": 4,
+    "visited_on": "2026-03-26"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s019",
+    "rating": 3,
+    "visited_on": "2026-01-28"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s132",
+    "rating": 5,
+    "visited_on": "2025-07-27"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s080",
+    "rating": 1,
+    "visited_on": "2026-05-15"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s062",
+    "rating": 5,
+    "visited_on": "2025-10-27"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s028",
+    "rating": 3,
+    "visited_on": "2025-08-25"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s057",
+    "rating": 2,
+    "visited_on": "2026-06-22"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s099",
+    "rating": 2,
+    "visited_on": "2025-11-03"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s159",
+    "rating": 4,
+    "visited_on": "2026-07-17"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s009",
+    "rating": 3,
+    "visited_on": "2026-06-12"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s101",
+    "rating": 4,
+    "visited_on": "2025-11-27"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s148",
+    "rating": 3,
+    "visited_on": "2026-02-05"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s048",
+    "rating": 4,
+    "visited_on": "2025-10-08"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s089",
+    "rating": 4,
+    "visited_on": "2025-11-28"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s015",
+    "rating": 3,
+    "visited_on": "2025-11-02"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s001",
+    "rating": 4,
+    "visited_on": "2026-07-02"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s093",
+    "rating": 3,
+    "visited_on": "2026-05-06"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s018",
+    "rating": 4,
+    "visited_on": "2026-04-02"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s014",
+    "rating": 1,
+    "visited_on": "2026-02-03"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s013",
+    "rating": 4,
+    "visited_on": "2026-06-08"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s158",
+    "rating": 4,
+    "visited_on": "2026-04-24"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s134",
+    "rating": 5,
+    "visited_on": "2026-08-13"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s007",
+    "rating": 3,
+    "visited_on": "2025-09-21"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s096",
+    "rating": 4,
+    "visited_on": "2026-02-10"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s155",
+    "rating": 4,
+    "visited_on": "2025-06-16"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s002",
+    "rating": 3,
+    "visited_on": "2026-01-07"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s020",
+    "rating": 4,
+    "visited_on": "2025-12-02"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s063",
+    "rating": 4,
+    "visited_on": "2026-09-15"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s100",
+    "rating": 4,
+    "visited_on": "2025-12-11"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s003",
+    "rating": 1,
+    "visited_on": "2026-08-24"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s011",
+    "rating": 1,
+    "visited_on": "2026-04-17"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s037",
+    "rating": 2,
+    "visited_on": "2026-01-17"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s171",
+    "rating": 1,
+    "visited_on": "2026-08-23"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s110",
+    "rating": 4,
+    "visited_on": "2026-05-14"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s044",
+    "rating": 4,
+    "visited_on": "2025-11-26"
+  },
+  {
+    "user_id": "u12",
+    "stall_id": "s147",
+    "rating": 5,
+    "visited_on": "2025-12-31"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s096",
+    "rating": 3,
+    "visited_on": "2026-04-14"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s092",
+    "rating": 3,
+    "visited_on": "2025-10-29"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s032",
+    "rating": 2,
+    "visited_on": "2025-06-28"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s120",
+    "rating": 5,
+    "visited_on": "2025-12-24"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s094",
+    "rating": 4,
+    "visited_on": "2026-05-10"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s095",
+    "rating": 5,
+    "visited_on": "2026-08-22"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s050",
+    "rating": 3,
+    "visited_on": "2026-02-21"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s088",
+    "rating": 3,
+    "visited_on": "2025-06-29"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s053",
+    "rating": 4,
+    "visited_on": "2025-10-17"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s104",
+    "rating": 5,
+    "visited_on": "2025-11-18"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s098",
+    "rating": 3,
+    "visited_on": "2026-04-01"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s106",
+    "rating": 3,
+    "visited_on": "2026-02-02"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s011",
+    "rating": 4,
+    "visited_on": "2026-05-20"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s099",
+    "rating": 2,
+    "visited_on": "2026-06-15"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s129",
+    "rating": 3,
+    "visited_on": "2026-03-27"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s155",
+    "rating": 4,
+    "visited_on": "2025-06-28"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s097",
+    "rating": 2,
+    "visited_on": "2026-05-26"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s051",
+    "rating": 3,
+    "visited_on": "2026-06-15"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s027",
+    "rating": 5,
+    "visited_on": "2026-02-09"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s107",
+    "rating": 4,
+    "visited_on": "2026-04-24"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s035",
+    "rating": 4,
+    "visited_on": "2026-08-11"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s078",
+    "rating": 4,
+    "visited_on": "2026-06-04"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s054",
+    "rating": 4,
+    "visited_on": "2026-09-23"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s091",
+    "rating": 4,
+    "visited_on": "2026-05-19"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s036",
+    "rating": 3,
+    "visited_on": "2025-09-11"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s056",
+    "rating": 3,
+    "visited_on": "2026-04-06"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s108",
+    "rating": 3,
+    "visited_on": "2026-08-25"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s089",
+    "rating": 4,
+    "visited_on": "2025-09-13"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s169",
+    "rating": 4,
+    "visited_on": "2025-07-24"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s111",
+    "rating": 2,
+    "visited_on": "2026-01-14"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s149",
+    "rating": 4,
+    "visited_on": "2025-12-18"
+  },
+  {
+    "user_id": "u13",
+    "stall_id": "s046",
+    "rating": 3,
+    "visited_on": "2025-12-25"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s061",
+    "rating": 3,
+    "visited_on": "2026-07-02"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s140",
+    "rating": 3,
+    "visited_on": "2025-07-07"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s109",
+    "rating": 2,
+    "visited_on": "2025-11-22"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s158",
+    "rating": 3,
+    "visited_on": "2026-09-10"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s099",
+    "rating": 3,
+    "visited_on": "2026-06-08"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s052",
+    "rating": 4,
+    "visited_on": "2026-08-01"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s102",
+    "rating": 2,
+    "visited_on": "2025-09-15"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s112",
+    "rating": 3,
+    "visited_on": "2025-11-28"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s110",
+    "rating": 3,
+    "visited_on": "2025-11-30"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s098",
+    "rating": 3,
+    "visited_on": "2025-08-10"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s127",
+    "rating": 3,
+    "visited_on": "2026-07-16"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s103",
+    "rating": 5,
+    "visited_on": "2025-12-10"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s104",
+    "rating": 4,
+    "visited_on": "2026-08-22"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s106",
+    "rating": 2,
+    "visited_on": "2026-07-06"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s120",
+    "rating": 3,
+    "visited_on": "2026-02-20"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s118",
+    "rating": 4,
+    "visited_on": "2025-09-27"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s100",
+    "rating": 2,
+    "visited_on": "2025-06-27"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s111",
+    "rating": 1,
+    "visited_on": "2025-09-23"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s097",
+    "rating": 2,
+    "visited_on": "2026-07-26"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s105",
+    "rating": 5,
+    "visited_on": "2025-10-07"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s034",
+    "rating": 2,
+    "visited_on": "2025-12-17"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s018",
+    "rating": 3,
+    "visited_on": "2026-08-21"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s166",
+    "rating": 2,
+    "visited_on": "2025-08-20"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s147",
+    "rating": 4,
+    "visited_on": "2026-03-22"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s135",
+    "rating": 3,
+    "visited_on": "2025-10-02"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s096",
+    "rating": 5,
+    "visited_on": "2026-02-12"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s095",
+    "rating": 2,
+    "visited_on": "2025-11-07"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s041",
+    "rating": 4,
+    "visited_on": "2026-05-24"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s108",
+    "rating": 4,
+    "visited_on": "2026-08-31"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s016",
+    "rating": 4,
+    "visited_on": "2026-09-13"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s033",
+    "rating": 5,
+    "visited_on": "2025-10-13"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s101",
+    "rating": 4,
+    "visited_on": "2026-01-02"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s010",
+    "rating": 4,
+    "visited_on": "2025-10-12"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s083",
+    "rating": 2,
+    "visited_on": "2025-07-01"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s082",
+    "rating": 5,
+    "visited_on": "2025-08-11"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s156",
+    "rating": 4,
+    "visited_on": "2025-11-16"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s050",
+    "rating": 3,
+    "visited_on": "2026-09-17"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s032",
+    "rating": 4,
+    "visited_on": "2025-07-02"
+  },
+  {
+    "user_id": "u14",
+    "stall_id": "s093",
+    "rating": 2,
+    "visited_on": "2025-09-29"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s057",
+    "rating": 3,
+    "visited_on": "2026-08-03"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s010",
+    "rating": 2,
+    "visited_on": "2025-06-18"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s041",
+    "rating": 4,
+    "visited_on": "2025-11-01"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s023",
+    "rating": 3,
+    "visited_on": "2026-07-29"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s145",
+    "rating": 4,
+    "visited_on": "2026-08-12"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s084",
+    "rating": 3,
+    "visited_on": "2026-04-09"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s045",
+    "rating": 4,
+    "visited_on": "2025-12-13"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s055",
+    "rating": 3,
+    "visited_on": "2025-12-14"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s050",
+    "rating": 2,
+    "visited_on": "2025-12-12"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s109",
+    "rating": 4,
+    "visited_on": "2025-09-03"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s070",
+    "rating": 2,
+    "visited_on": "2026-05-05"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s040",
+    "rating": 3,
+    "visited_on": "2025-11-04"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s128",
+    "rating": 4,
+    "visited_on": "2026-09-23"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s004",
+    "rating": 5,
+    "visited_on": "2025-06-14"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s009",
+    "rating": 5,
+    "visited_on": "2025-11-20"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s051",
+    "rating": 3,
+    "visited_on": "2026-09-16"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s144",
+    "rating": 5,
+    "visited_on": "2026-06-21"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s167",
+    "rating": 3,
+    "visited_on": "2026-03-30"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s053",
+    "rating": 4,
+    "visited_on": "2026-06-07"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s058",
+    "rating": 3,
+    "visited_on": "2026-07-30"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s117",
+    "rating": 2,
+    "visited_on": "2026-07-06"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s049",
+    "rating": 2,
+    "visited_on": "2026-06-09"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s074",
+    "rating": 4,
+    "visited_on": "2026-07-19"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s164",
+    "rating": 4,
+    "visited_on": "2025-07-26"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s002",
+    "rating": 3,
+    "visited_on": "2026-09-21"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s075",
+    "rating": 3,
+    "visited_on": "2026-05-14"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s020",
+    "rating": 3,
+    "visited_on": "2026-03-01"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s087",
+    "rating": 5,
+    "visited_on": "2026-01-24"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s044",
+    "rating": 3,
+    "visited_on": "2026-06-29"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s152",
+    "rating": 4,
+    "visited_on": "2026-02-21"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s011",
+    "rating": 4,
+    "visited_on": "2026-01-26"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s056",
+    "rating": 5,
+    "visited_on": "2026-06-17"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s068",
+    "rating": 4,
+    "visited_on": "2026-09-08"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s046",
+    "rating": 3,
+    "visited_on": "2025-06-08"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s095",
+    "rating": 3,
+    "visited_on": "2025-10-19"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s052",
+    "rating": 4,
+    "visited_on": "2025-07-14"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s154",
+    "rating": 4,
+    "visited_on": "2025-10-30"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s156",
+    "rating": 3,
+    "visited_on": "2025-11-20"
+  },
+  {
+    "user_id": "u15",
+    "stall_id": "s149",
+    "rating": 4,
+    "visited_on": "2025-10-19"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s149",
+    "rating": 4,
+    "visited_on": "2025-12-13"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s004",
+    "rating": 2,
+    "visited_on": "2025-07-10"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s151",
+    "rating": 1,
+    "visited_on": "2026-09-22"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s056",
+    "rating": 3,
+    "visited_on": "2026-03-22"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s006",
+    "rating": 4,
+    "visited_on": "2026-04-19"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s098",
+    "rating": 4,
+    "visited_on": "2026-06-11"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s152",
+    "rating": 2,
+    "visited_on": "2025-08-02"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s164",
+    "rating": 4,
+    "visited_on": "2025-06-27"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s087",
+    "rating": 4,
+    "visited_on": "2026-04-07"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s143",
+    "rating": 2,
+    "visited_on": "2026-01-12"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s135",
+    "rating": 3,
+    "visited_on": "2025-11-10"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s156",
+    "rating": 4,
+    "visited_on": "2025-10-29"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s146",
+    "rating": 3,
+    "visited_on": "2026-09-10"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s142",
+    "rating": 2,
+    "visited_on": "2026-06-29"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s155",
+    "rating": 3,
+    "visited_on": "2025-12-03"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s010",
+    "rating": 4,
+    "visited_on": "2025-07-30"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s053",
+    "rating": 5,
+    "visited_on": "2026-05-21"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s005",
+    "rating": 3,
+    "visited_on": "2026-08-25"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s161",
+    "rating": 5,
+    "visited_on": "2025-12-27"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s119",
+    "rating": 4,
+    "visited_on": "2026-02-14"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s144",
+    "rating": 5,
+    "visited_on": "2025-07-10"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s163",
+    "rating": 5,
+    "visited_on": "2026-04-06"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s129",
+    "rating": 3,
+    "visited_on": "2025-09-26"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s154",
+    "rating": 1,
+    "visited_on": "2026-03-19"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s047",
+    "rating": 2,
+    "visited_on": "2026-07-29"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s118",
+    "rating": 4,
+    "visited_on": "2026-03-03"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s066",
+    "rating": 4,
+    "visited_on": "2025-10-04"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s043",
+    "rating": 5,
+    "visited_on": "2026-03-27"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s150",
+    "rating": 1,
+    "visited_on": "2026-05-07"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s007",
+    "rating": 3,
+    "visited_on": "2025-10-25"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s147",
+    "rating": 3,
+    "visited_on": "2025-11-22"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s153",
+    "rating": 4,
+    "visited_on": "2026-01-02"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s148",
+    "rating": 3,
+    "visited_on": "2026-02-14"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s052",
+    "rating": 5,
+    "visited_on": "2026-04-20"
+  },
+  {
+    "user_id": "u16",
+    "stall_id": "s036",
+    "rating": 4,
+    "visited_on": "2026-08-26"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s139",
+    "rating": 3,
+    "visited_on": "2025-08-12"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s042",
+    "rating": 4,
+    "visited_on": "2025-07-20"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s149",
+    "rating": 4,
+    "visited_on": "2026-06-22"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s104",
+    "rating": 5,
+    "visited_on": "2025-08-26"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s133",
+    "rating": 4,
+    "visited_on": "2026-08-31"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s044",
+    "rating": 4,
+    "visited_on": "2026-03-04"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s117",
+    "rating": 3,
+    "visited_on": "2026-02-06"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s131",
+    "rating": 3,
+    "visited_on": "2026-08-01"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s051",
+    "rating": 4,
+    "visited_on": "2025-10-23"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s056",
+    "rating": 3,
+    "visited_on": "2026-03-20"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s040",
+    "rating": 4,
+    "visited_on": "2025-08-04"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s049",
+    "rating": 3,
+    "visited_on": "2026-07-31"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s127",
+    "rating": 3,
+    "visited_on": "2026-06-02"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s050",
+    "rating": 2,
+    "visited_on": "2026-05-28"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s148",
+    "rating": 4,
+    "visited_on": "2026-08-30"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s093",
+    "rating": 2,
+    "visited_on": "2026-01-08"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s045",
+    "rating": 2,
+    "visited_on": "2025-08-10"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s145",
+    "rating": 4,
+    "visited_on": "2025-10-21"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s153",
+    "rating": 3,
+    "visited_on": "2025-11-29"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s039",
+    "rating": 2,
+    "visited_on": "2026-07-17"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s075",
+    "rating": 4,
+    "visited_on": "2026-06-08"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s098",
+    "rating": 5,
+    "visited_on": "2025-07-09"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s053",
+    "rating": 4,
+    "visited_on": "2025-10-20"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s057",
+    "rating": 5,
+    "visited_on": "2026-01-19"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s054",
+    "rating": 2,
+    "visited_on": "2026-07-03"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s164",
+    "rating": 3,
+    "visited_on": "2025-07-08"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s090",
+    "rating": 2,
+    "visited_on": "2026-09-17"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s047",
+    "rating": 2,
+    "visited_on": "2025-06-20"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s059",
+    "rating": 2,
+    "visited_on": "2026-07-12"
+  },
+  {
+    "user_id": "u17",
+    "stall_id": "s036",
+    "rating": 3,
+    "visited_on": "2026-02-22"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s135",
+    "rating": 3,
+    "visited_on": "2026-06-05"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s005",
+    "rating": 4,
+    "visited_on": "2025-06-11"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s003",
+    "rating": 2,
+    "visited_on": "2026-05-27"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s136",
+    "rating": 4,
+    "visited_on": "2025-11-18"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s130",
+    "rating": 4,
+    "visited_on": "2026-03-11"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s116",
+    "rating": 3,
+    "visited_on": "2025-07-03"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s159",
+    "rating": 3,
+    "visited_on": "2025-12-03"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s150",
+    "rating": 1,
+    "visited_on": "2026-03-02"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s012",
+    "rating": 4,
+    "visited_on": "2026-03-02"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s066",
+    "rating": 3,
+    "visited_on": "2025-12-20"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s128",
+    "rating": 2,
+    "visited_on": "2026-07-16"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s094",
+    "rating": 4,
+    "visited_on": "2025-08-22"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s104",
+    "rating": 5,
+    "visited_on": "2025-09-19"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s158",
+    "rating": 3,
+    "visited_on": "2026-03-11"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s072",
+    "rating": 4,
+    "visited_on": "2025-06-19"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s071",
+    "rating": 2,
+    "visited_on": "2026-08-07"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s147",
+    "rating": 3,
+    "visited_on": "2025-07-23"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s138",
+    "rating": 4,
+    "visited_on": "2026-02-12"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s164",
+    "rating": 3,
+    "visited_on": "2025-08-20"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s041",
+    "rating": 5,
+    "visited_on": "2025-10-23"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s139",
+    "rating": 3,
+    "visited_on": "2026-07-01"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s133",
+    "rating": 4,
+    "visited_on": "2026-05-19"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s134",
+    "rating": 3,
+    "visited_on": "2025-08-03"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s040",
+    "rating": 3,
+    "visited_on": "2026-07-22"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s148",
+    "rating": 3,
+    "visited_on": "2025-08-07"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s131",
+    "rating": 2,
+    "visited_on": "2026-07-24"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s143",
+    "rating": 2,
+    "visited_on": "2025-07-14"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s137",
+    "rating": 3,
+    "visited_on": "2025-07-10"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s127",
+    "rating": 4,
+    "visited_on": "2026-06-26"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s098",
+    "rating": 4,
+    "visited_on": "2026-06-11"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s095",
+    "rating": 4,
+    "visited_on": "2026-07-31"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s056",
+    "rating": 2,
+    "visited_on": "2026-03-05"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s046",
+    "rating": 2,
+    "visited_on": "2026-06-12"
+  },
+  {
+    "user_id": "u18",
+    "stall_id": "s105",
+    "rating": 3,
+    "visited_on": "2026-03-29"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s150",
+    "rating": 4,
+    "visited_on": "2025-08-24"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s131",
+    "rating": 3,
+    "visited_on": "2025-08-12"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s003",
+    "rating": 3,
+    "visited_on": "2026-07-17"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s155",
+    "rating": 4,
+    "visited_on": "2026-04-11"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s149",
+    "rating": 4,
+    "visited_on": "2026-04-06"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s170",
+    "rating": 3,
+    "visited_on": "2025-10-07"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s061",
+    "rating": 4,
+    "visited_on": "2025-11-17"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s055",
+    "rating": 4,
+    "visited_on": "2026-09-18"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s166",
+    "rating": 2,
+    "visited_on": "2026-09-19"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s159",
+    "rating": 1,
+    "visited_on": "2025-08-09"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s098",
+    "rating": 5,
+    "visited_on": "2026-01-29"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s156",
+    "rating": 4,
+    "visited_on": "2025-06-06"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s078",
+    "rating": 4,
+    "visited_on": "2026-01-27"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s036",
+    "rating": 3,
+    "visited_on": "2025-07-05"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s142",
+    "rating": 4,
+    "visited_on": "2026-05-26"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s124",
+    "rating": 4,
+    "visited_on": "2025-09-05"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s137",
+    "rating": 3,
+    "visited_on": "2026-01-21"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s144",
+    "rating": 4,
+    "visited_on": "2025-11-17"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s075",
+    "rating": 5,
+    "visited_on": "2026-04-01"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s143",
+    "rating": 2,
+    "visited_on": "2025-08-20"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s146",
+    "rating": 4,
+    "visited_on": "2026-08-27"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s017",
+    "rating": 5,
+    "visited_on": "2025-09-24"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s016",
+    "rating": 3,
+    "visited_on": "2025-09-07"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s076",
+    "rating": 4,
+    "visited_on": "2025-10-19"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s010",
+    "rating": 2,
+    "visited_on": "2026-01-05"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s154",
+    "rating": 4,
+    "visited_on": "2026-03-27"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s082",
+    "rating": 3,
+    "visited_on": "2026-06-28"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s141",
+    "rating": 3,
+    "visited_on": "2025-12-24"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s162",
+    "rating": 4,
+    "visited_on": "2026-04-25"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s167",
+    "rating": 3,
+    "visited_on": "2026-05-04"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s127",
+    "rating": 5,
+    "visited_on": "2025-07-23"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s040",
+    "rating": 5,
+    "visited_on": "2026-06-10"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s163",
+    "rating": 4,
+    "visited_on": "2026-03-16"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s147",
+    "rating": 4,
+    "visited_on": "2025-07-23"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s060",
+    "rating": 4,
+    "visited_on": "2026-04-27"
+  },
+  {
+    "user_id": "u19",
+    "stall_id": "s153",
+    "rating": 4,
+    "visited_on": "2026-06-28"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s029",
+    "rating": 3,
+    "visited_on": "2025-06-15"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s158",
+    "rating": 2,
+    "visited_on": "2026-04-10"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s107",
+    "rating": 4,
+    "visited_on": "2026-06-12"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s021",
+    "rating": 3,
+    "visited_on": "2025-08-30"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s056",
+    "rating": 2,
+    "visited_on": "2026-01-01"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s025",
+    "rating": 2,
+    "visited_on": "2026-08-02"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s036",
+    "rating": 4,
+    "visited_on": "2026-04-23"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s083",
+    "rating": 3,
+    "visited_on": "2026-05-30"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s022",
+    "rating": 3,
+    "visited_on": "2026-03-06"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s035",
+    "rating": 3,
+    "visited_on": "2025-10-21"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s037",
+    "rating": 4,
+    "visited_on": "2026-04-11"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s062",
+    "rating": 3,
+    "visited_on": "2026-06-13"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s091",
+    "rating": 5,
+    "visited_on": "2026-08-09"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s122",
+    "rating": 3,
+    "visited_on": "2026-09-04"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s023",
+    "rating": 3,
+    "visited_on": "2026-09-07"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s055",
+    "rating": 4,
+    "visited_on": "2026-03-28"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s163",
+    "rating": 3,
+    "visited_on": "2025-06-08"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s144",
+    "rating": 3,
+    "visited_on": "2026-05-07"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s068",
+    "rating": 3,
+    "visited_on": "2026-05-09"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s140",
+    "rating": 4,
+    "visited_on": "2025-07-02"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s167",
+    "rating": 3,
+    "visited_on": "2026-02-12"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s120",
+    "rating": 4,
+    "visited_on": "2025-08-15"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s089",
+    "rating": 3,
+    "visited_on": "2026-01-14"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s058",
+    "rating": 3,
+    "visited_on": "2025-06-23"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s052",
+    "rating": 5,
+    "visited_on": "2026-02-14"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s026",
+    "rating": 3,
+    "visited_on": "2025-12-27"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s003",
+    "rating": 2,
+    "visited_on": "2026-08-03"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s032",
+    "rating": 4,
+    "visited_on": "2025-06-02"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s010",
+    "rating": 4,
+    "visited_on": "2025-07-31"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s129",
+    "rating": 4,
+    "visited_on": "2025-11-22"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s156",
+    "rating": 3,
+    "visited_on": "2025-07-15"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s092",
+    "rating": 4,
+    "visited_on": "2026-03-17"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s008",
+    "rating": 2,
+    "visited_on": "2026-09-14"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s121",
+    "rating": 2,
+    "visited_on": "2025-07-17"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s162",
+    "rating": 3,
+    "visited_on": "2025-11-10"
+  },
+  {
+    "user_id": "u20",
+    "stall_id": "s118",
+    "rating": 4,
+    "visited_on": "2026-03-30"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s003",
+    "rating": 2,
+    "visited_on": "2025-07-17"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s132",
+    "rating": 4,
+    "visited_on": "2026-02-18"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s159",
+    "rating": 4,
+    "visited_on": "2026-01-26"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s038",
+    "rating": 3,
+    "visited_on": "2025-10-12"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s137",
+    "rating": 4,
+    "visited_on": "2026-05-04"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s034",
+    "rating": 2,
+    "visited_on": "2026-04-20"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s133",
+    "rating": 4,
+    "visited_on": "2026-03-28"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s033",
+    "rating": 5,
+    "visited_on": "2025-11-13"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s136",
+    "rating": 4,
+    "visited_on": "2026-03-29"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s130",
+    "rating": 4,
+    "visited_on": "2026-09-05"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s070",
+    "rating": 3,
+    "visited_on": "2026-04-19"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s046",
+    "rating": 2,
+    "visited_on": "2025-12-01"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s067",
+    "rating": 3,
+    "visited_on": "2026-01-02"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s041",
+    "rating": 5,
+    "visited_on": "2026-01-30"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s082",
+    "rating": 3,
+    "visited_on": "2025-07-22"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s134",
+    "rating": 4,
+    "visited_on": "2025-09-04"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s129",
+    "rating": 5,
+    "visited_on": "2026-01-26"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s140",
+    "rating": 2,
+    "visited_on": "2026-03-07"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s029",
+    "rating": 4,
+    "visited_on": "2026-07-20"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s112",
+    "rating": 4,
+    "visited_on": "2026-04-12"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s139",
+    "rating": 3,
+    "visited_on": "2026-01-09"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s048",
+    "rating": 5,
+    "visited_on": "2026-06-10"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s138",
+    "rating": 2,
+    "visited_on": "2025-10-08"
+  },
+  {
+    "user_id": "u21",
+    "stall_id": "s142",
+    "rating": 3,
+    "visited_on": "2026-06-06"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s131",
+    "rating": 3,
+    "visited_on": "2026-05-02"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s078",
+    "rating": 5,
+    "visited_on": "2026-08-16"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s046",
+    "rating": 1,
+    "visited_on": "2025-08-22"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s152",
+    "rating": 4,
+    "visited_on": "2025-11-11"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s052",
+    "rating": 4,
+    "visited_on": "2026-05-18"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s170",
+    "rating": 4,
+    "visited_on": "2026-01-19"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s003",
+    "rating": 4,
+    "visited_on": "2026-05-10"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s044",
+    "rating": 5,
+    "visited_on": "2025-12-23"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s157",
+    "rating": 2,
+    "visited_on": "2026-01-04"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s057",
+    "rating": 3,
+    "visited_on": "2025-10-11"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s006",
+    "rating": 4,
+    "visited_on": "2026-07-19"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s100",
+    "rating": 2,
+    "visited_on": "2026-07-16"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s047",
+    "rating": 4,
+    "visited_on": "2026-07-05"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s140",
+    "rating": 2,
+    "visited_on": "2026-01-29"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s053",
+    "rating": 3,
+    "visited_on": "2025-12-04"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s043",
+    "rating": 4,
+    "visited_on": "2025-07-28"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s041",
+    "rating": 4,
+    "visited_on": "2026-02-28"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s045",
+    "rating": 2,
+    "visited_on": "2026-06-24"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s073",
+    "rating": 3,
+    "visited_on": "2025-08-16"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s056",
+    "rating": 3,
+    "visited_on": "2025-06-04"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s118",
+    "rating": 2,
+    "visited_on": "2026-03-30"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s054",
+    "rating": 4,
+    "visited_on": "2025-10-11"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s121",
+    "rating": 4,
+    "visited_on": "2026-06-08"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s128",
+    "rating": 4,
+    "visited_on": "2026-08-21"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s028",
+    "rating": 4,
+    "visited_on": "2025-10-23"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s049",
+    "rating": 3,
+    "visited_on": "2025-06-21"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s154",
+    "rating": 4,
+    "visited_on": "2025-12-05"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s058",
+    "rating": 3,
+    "visited_on": "2025-06-26"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s002",
+    "rating": 5,
+    "visited_on": "2025-10-08"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s070",
+    "rating": 2,
+    "visited_on": "2026-01-04"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s048",
+    "rating": 3,
+    "visited_on": "2026-07-25"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s108",
+    "rating": 5,
+    "visited_on": "2025-06-13"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s076",
+    "rating": 4,
+    "visited_on": "2025-11-30"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s051",
+    "rating": 3,
+    "visited_on": "2025-12-31"
+  },
+  {
+    "user_id": "u22",
+    "stall_id": "s009",
+    "rating": 5,
+    "visited_on": "2026-04-22"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s095",
+    "rating": 4,
+    "visited_on": "2025-06-10"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s144",
+    "rating": 5,
+    "visited_on": "2025-10-19"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s059",
+    "rating": 3,
+    "visited_on": "2025-10-15"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s105",
+    "rating": 2,
+    "visited_on": "2026-04-22"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s109",
+    "rating": 3,
+    "visited_on": "2025-11-10"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s104",
+    "rating": 5,
+    "visited_on": "2026-05-30"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s075",
+    "rating": 5,
+    "visited_on": "2025-11-14"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s157",
+    "rating": 3,
+    "visited_on": "2026-06-08"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s011",
+    "rating": 4,
+    "visited_on": "2026-05-31"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s102",
+    "rating": 2,
+    "visited_on": "2026-01-02"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s106",
+    "rating": 2,
+    "visited_on": "2026-04-22"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s033",
+    "rating": 3,
+    "visited_on": "2026-01-30"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s108",
+    "rating": 4,
+    "visited_on": "2026-09-20"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s119",
+    "rating": 3,
+    "visited_on": "2025-11-11"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s046",
+    "rating": 3,
+    "visited_on": "2025-11-25"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s077",
+    "rating": 2,
+    "visited_on": "2026-08-12"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s019",
+    "rating": 3,
+    "visited_on": "2026-06-16"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s133",
+    "rating": 2,
+    "visited_on": "2025-08-27"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s060",
+    "rating": 2,
+    "visited_on": "2026-05-11"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s078",
+    "rating": 4,
+    "visited_on": "2026-05-05"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s074",
+    "rating": 3,
+    "visited_on": "2026-08-11"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s013",
+    "rating": 4,
+    "visited_on": "2026-02-05"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s103",
+    "rating": 3,
+    "visited_on": "2026-03-15"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s085",
+    "rating": 3,
+    "visited_on": "2026-06-18"
+  },
+  {
+    "user_id": "u23",
+    "stall_id": "s100",
+    "rating": 3,
+    "visited_on": "2026-02-27"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s087",
+    "rating": 4,
+    "visited_on": "2026-09-15"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s096",
+    "rating": 5,
+    "visited_on": "2025-09-11"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s082",
+    "rating": 4,
+    "visited_on": "2026-09-01"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s112",
+    "rating": 5,
+    "visited_on": "2025-06-16"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s003",
+    "rating": 3,
+    "visited_on": "2025-10-04"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s073",
+    "rating": 3,
+    "visited_on": "2026-05-17"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s101",
+    "rating": 3,
+    "visited_on": "2026-07-13"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s097",
+    "rating": 1,
+    "visited_on": "2025-08-30"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s034",
+    "rating": 4,
+    "visited_on": "2025-07-27"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s080",
+    "rating": 2,
+    "visited_on": "2026-07-17"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s083",
+    "rating": 2,
+    "visited_on": "2026-09-15"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s103",
+    "rating": 3,
+    "visited_on": "2026-09-09"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s084",
+    "rating": 5,
+    "visited_on": "2025-07-06"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s108",
+    "rating": 5,
+    "visited_on": "2025-06-04"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s072",
+    "rating": 3,
+    "visited_on": "2025-12-26"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s088",
+    "rating": 3,
+    "visited_on": "2026-08-18"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s147",
+    "rating": 4,
+    "visited_on": "2025-12-15"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s163",
+    "rating": 4,
+    "visited_on": "2025-07-07"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s110",
+    "rating": 4,
+    "visited_on": "2026-08-27"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s089",
+    "rating": 2,
+    "visited_on": "2026-06-02"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s091",
+    "rating": 4,
+    "visited_on": "2026-04-07"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s001",
+    "rating": 4,
+    "visited_on": "2026-04-28"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s168",
+    "rating": 5,
+    "visited_on": "2026-01-11"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s090",
+    "rating": 2,
+    "visited_on": "2026-02-02"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s106",
+    "rating": 3,
+    "visited_on": "2026-07-21"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s077",
+    "rating": 2,
+    "visited_on": "2025-12-21"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s028",
+    "rating": 4,
+    "visited_on": "2025-06-21"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s107",
+    "rating": 3,
+    "visited_on": "2025-12-04"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s154",
+    "rating": 2,
+    "visited_on": "2026-04-19"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s033",
+    "rating": 5,
+    "visited_on": "2026-04-29"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s098",
+    "rating": 4,
+    "visited_on": "2025-07-24"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s085",
+    "rating": 5,
+    "visited_on": "2025-08-14"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s035",
+    "rating": 4,
+    "visited_on": "2026-03-24"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s042",
+    "rating": 2,
+    "visited_on": "2026-06-21"
+  },
+  {
+    "user_id": "u24",
+    "stall_id": "s044",
+    "rating": 5,
+    "visited_on": "2025-12-05"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s020",
+    "rating": 3,
+    "visited_on": "2026-05-20"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s146",
+    "rating": 5,
+    "visited_on": "2025-09-25"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s042",
+    "rating": 3,
+    "visited_on": "2026-05-20"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s041",
+    "rating": 4,
+    "visited_on": "2026-04-08"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s124",
+    "rating": 4,
+    "visited_on": "2025-10-15"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s047",
+    "rating": 3,
+    "visited_on": "2025-09-06"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s109",
+    "rating": 3,
+    "visited_on": "2026-06-11"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s053",
+    "rating": 3,
+    "visited_on": "2026-09-06"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s106",
+    "rating": 3,
+    "visited_on": "2025-08-07"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s040",
+    "rating": 3,
+    "visited_on": "2025-09-25"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s048",
+    "rating": 3,
+    "visited_on": "2025-10-03"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s008",
+    "rating": 2,
+    "visited_on": "2026-01-24"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s050",
+    "rating": 3,
+    "visited_on": "2025-07-21"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s044",
+    "rating": 3,
+    "visited_on": "2025-11-11"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s073",
+    "rating": 3,
+    "visited_on": "2026-07-10"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s058",
+    "rating": 2,
+    "visited_on": "2025-07-30"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s051",
+    "rating": 2,
+    "visited_on": "2026-01-13"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s046",
+    "rating": 2,
+    "visited_on": "2026-03-05"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s045",
+    "rating": 3,
+    "visited_on": "2026-03-29"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s049",
+    "rating": 3,
+    "visited_on": "2026-03-19"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s055",
+    "rating": 4,
+    "visited_on": "2025-06-05"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s089",
+    "rating": 3,
+    "visited_on": "2025-07-28"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s110",
+    "rating": 2,
+    "visited_on": "2026-06-04"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s101",
+    "rating": 4,
+    "visited_on": "2025-09-08"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s069",
+    "rating": 3,
+    "visited_on": "2026-03-29"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s147",
+    "rating": 3,
+    "visited_on": "2026-01-20"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s155",
+    "rating": 3,
+    "visited_on": "2025-06-01"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s039",
+    "rating": 3,
+    "visited_on": "2025-10-17"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s043",
+    "rating": 4,
+    "visited_on": "2026-02-08"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s062",
+    "rating": 4,
+    "visited_on": "2026-02-03"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s004",
+    "rating": 2,
+    "visited_on": "2026-02-19"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s157",
+    "rating": 2,
+    "visited_on": "2025-10-14"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s152",
+    "rating": 4,
+    "visited_on": "2026-08-19"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s056",
+    "rating": 1,
+    "visited_on": "2026-05-14"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s160",
+    "rating": 2,
+    "visited_on": "2026-03-15"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s015",
+    "rating": 3,
+    "visited_on": "2025-07-28"
+  },
+  {
+    "user_id": "u25",
+    "stall_id": "s057",
+    "rating": 3,
+    "visited_on": "2026-06-23"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s108",
+    "rating": 5,
+    "visited_on": "2026-01-12"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s131",
+    "rating": 3,
+    "visited_on": "2026-08-13"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s043",
+    "rating": 5,
+    "visited_on": "2025-08-22"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s154",
+    "rating": 3,
+    "visited_on": "2025-11-14"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s029",
+    "rating": 4,
+    "visited_on": "2026-03-31"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s114",
+    "rating": 3,
+    "visited_on": "2026-01-27"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s146",
+    "rating": 4,
+    "visited_on": "2026-07-05"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s144",
+    "rating": 3,
+    "visited_on": "2026-05-04"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s055",
+    "rating": 2,
+    "visited_on": "2026-05-28"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s150",
+    "rating": 3,
+    "visited_on": "2026-02-05"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s156",
+    "rating": 3,
+    "visited_on": "2026-03-28"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s054",
+    "rating": 5,
+    "visited_on": "2025-12-10"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s038",
+    "rating": 5,
+    "visited_on": "2025-11-23"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s147",
+    "rating": 4,
+    "visited_on": "2025-10-20"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s044",
+    "rating": 4,
+    "visited_on": "2025-10-24"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s157",
+    "rating": 3,
+    "visited_on": "2025-07-27"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s122",
+    "rating": 2,
+    "visited_on": "2025-07-08"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s135",
+    "rating": 5,
+    "visited_on": "2025-11-14"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s069",
+    "rating": 4,
+    "visited_on": "2026-07-28"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s149",
+    "rating": 3,
+    "visited_on": "2025-08-17"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s102",
+    "rating": 5,
+    "visited_on": "2026-03-21"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s152",
+    "rating": 2,
+    "visited_on": "2025-09-11"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s081",
+    "rating": 3,
+    "visited_on": "2025-11-15"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s139",
+    "rating": 4,
+    "visited_on": "2026-03-21"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s153",
+    "rating": 3,
+    "visited_on": "2026-03-13"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s145",
+    "rating": 3,
+    "visited_on": "2026-02-27"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s071",
+    "rating": 4,
+    "visited_on": "2025-08-11"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s084",
+    "rating": 2,
+    "visited_on": "2026-07-01"
+  },
+  {
+    "user_id": "u26",
+    "stall_id": "s059",
+    "rating": 3,
+    "visited_on": "2026-05-25"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s093",
+    "rating": 1,
+    "visited_on": "2025-11-26"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s115",
+    "rating": 4,
+    "visited_on": "2025-11-09"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s058",
+    "rating": 3,
+    "visited_on": "2026-09-19"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s073",
+    "rating": 2,
+    "visited_on": "2025-11-03"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s070",
+    "rating": 2,
+    "visited_on": "2025-08-23"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s067",
+    "rating": 2,
+    "visited_on": "2026-09-23"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s059",
+    "rating": 2,
+    "visited_on": "2026-09-14"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s072",
+    "rating": 3,
+    "visited_on": "2025-08-10"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s111",
+    "rating": 3,
+    "visited_on": "2026-08-24"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s136",
+    "rating": 3,
+    "visited_on": "2026-08-02"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s075",
+    "rating": 3,
+    "visited_on": "2025-12-10"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s130",
+    "rating": 5,
+    "visited_on": "2026-08-12"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s084",
+    "rating": 3,
+    "visited_on": "2026-06-14"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s126",
+    "rating": 3,
+    "visited_on": "2026-01-11"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s069",
+    "rating": 3,
+    "visited_on": "2025-12-22"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s023",
+    "rating": 4,
+    "visited_on": "2026-03-30"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s140",
+    "rating": 4,
+    "visited_on": "2026-07-23"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s137",
+    "rating": 3,
+    "visited_on": "2026-02-15"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s105",
+    "rating": 5,
+    "visited_on": "2026-09-11"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s052",
+    "rating": 4,
+    "visited_on": "2025-08-23"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s120",
+    "rating": 3,
+    "visited_on": "2026-06-23"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s035",
+    "rating": 3,
+    "visited_on": "2026-06-15"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s099",
+    "rating": 4,
+    "visited_on": "2026-04-06"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s103",
+    "rating": 3,
+    "visited_on": "2025-12-30"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s010",
+    "rating": 5,
+    "visited_on": "2025-09-06"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s091",
+    "rating": 3,
+    "visited_on": "2026-02-15"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s066",
+    "rating": 4,
+    "visited_on": "2025-12-02"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s063",
+    "rating": 2,
+    "visited_on": "2026-01-20"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s081",
+    "rating": 4,
+    "visited_on": "2025-06-09"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s148",
+    "rating": 3,
+    "visited_on": "2025-12-22"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s064",
+    "rating": 3,
+    "visited_on": "2026-08-14"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s076",
+    "rating": 3,
+    "visited_on": "2025-11-06"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s021",
+    "rating": 3,
+    "visited_on": "2026-08-03"
+  },
+  {
+    "user_id": "u27",
+    "stall_id": "s139",
+    "rating": 4,
+    "visited_on": "2026-04-30"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s003",
+    "rating": 4,
+    "visited_on": "2025-12-24"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s075",
+    "rating": 4,
+    "visited_on": "2025-10-06"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s005",
+    "rating": 4,
+    "visited_on": "2025-09-24"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s071",
+    "rating": 4,
+    "visited_on": "2025-11-02"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s059",
+    "rating": 4,
+    "visited_on": "2025-11-16"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s008",
+    "rating": 2,
+    "visited_on": "2026-03-30"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s001",
+    "rating": 2,
+    "visited_on": "2026-02-22"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s016",
+    "rating": 1,
+    "visited_on": "2025-10-15"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s035",
+    "rating": 3,
+    "visited_on": "2026-06-25"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s170",
+    "rating": 3,
+    "visited_on": "2025-12-09"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s020",
+    "rating": 3,
+    "visited_on": "2026-05-05"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s028",
+    "rating": 4,
+    "visited_on": "2026-08-10"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s031",
+    "rating": 5,
+    "visited_on": "2025-06-18"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s039",
+    "rating": 3,
+    "visited_on": "2026-04-20"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s119",
+    "rating": 3,
+    "visited_on": "2025-06-25"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s004",
+    "rating": 4,
+    "visited_on": "2025-06-08"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s058",
+    "rating": 2,
+    "visited_on": "2025-08-13"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s068",
+    "rating": 4,
+    "visited_on": "2025-09-30"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s006",
+    "rating": 3,
+    "visited_on": "2025-08-22"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s085",
+    "rating": 3,
+    "visited_on": "2026-02-02"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s012",
+    "rating": 3,
+    "visited_on": "2026-02-03"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s156",
+    "rating": 4,
+    "visited_on": "2026-08-20"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s103",
+    "rating": 4,
+    "visited_on": "2026-07-24"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s078",
+    "rating": 5,
+    "visited_on": "2025-09-18"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s138",
+    "rating": 3,
+    "visited_on": "2026-01-19"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s113",
+    "rating": 4,
+    "visited_on": "2025-07-31"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s066",
+    "rating": 4,
+    "visited_on": "2026-06-17"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s018",
+    "rating": 3,
+    "visited_on": "2026-09-17"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s023",
+    "rating": 5,
+    "visited_on": "2025-11-20"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s153",
+    "rating": 3,
+    "visited_on": "2025-10-09"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s147",
+    "rating": 5,
+    "visited_on": "2025-11-22"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s027",
+    "rating": 5,
+    "visited_on": "2026-03-09"
+  },
+  {
+    "user_id": "u28",
+    "stall_id": "s140",
+    "rating": 3,
+    "visited_on": "2026-01-20"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s075",
+    "rating": 5,
+    "visited_on": "2025-08-11"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s081",
+    "rating": 5,
+    "visited_on": "2026-09-01"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s071",
+    "rating": 3,
+    "visited_on": "2026-03-27"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s003",
+    "rating": 4,
+    "visited_on": "2026-05-11"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s043",
+    "rating": 5,
+    "visited_on": "2026-05-11"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s074",
+    "rating": 3,
+    "visited_on": "2025-10-20"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s041",
+    "rating": 4,
+    "visited_on": "2025-07-31"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s061",
+    "rating": 4,
+    "visited_on": "2026-02-22"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s073",
+    "rating": 3,
+    "visited_on": "2026-04-18"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s017",
+    "rating": 5,
+    "visited_on": "2026-04-03"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s152",
+    "rating": 2,
+    "visited_on": "2025-10-31"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s076",
+    "rating": 4,
+    "visited_on": "2026-07-26"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s067",
+    "rating": 5,
+    "visited_on": "2026-01-19"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s040",
+    "rating": 5,
+    "visited_on": "2025-08-18"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s128",
+    "rating": 5,
+    "visited_on": "2026-09-10"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s131",
+    "rating": 4,
+    "visited_on": "2026-06-04"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s064",
+    "rating": 4,
+    "visited_on": "2025-06-21"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s153",
+    "rating": 4,
+    "visited_on": "2025-12-13"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s063",
+    "rating": 3,
+    "visited_on": "2026-04-17"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s044",
+    "rating": 4,
+    "visited_on": "2026-01-25"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s072",
+    "rating": 3,
+    "visited_on": "2026-05-30"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s144",
+    "rating": 3,
+    "visited_on": "2026-05-21"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s031",
+    "rating": 5,
+    "visited_on": "2025-10-28"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s068",
+    "rating": 3,
+    "visited_on": "2025-09-24"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s108",
+    "rating": 4,
+    "visited_on": "2026-06-10"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s057",
+    "rating": 4,
+    "visited_on": "2026-04-05"
+  },
+  {
+    "user_id": "u29",
+    "stall_id": "s019",
+    "rating": 3,
+    "visited_on": "2025-10-02"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s111",
+    "rating": 2,
+    "visited_on": "2025-08-26"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s020",
+    "rating": 4,
+    "visited_on": "2026-03-25"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s072",
+    "rating": 4,
+    "visited_on": "2025-11-06"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s071",
+    "rating": 4,
+    "visited_on": "2026-03-14"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s164",
+    "rating": 2,
+    "visited_on": "2025-10-30"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s151",
+    "rating": 4,
+    "visited_on": "2025-12-21"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s090",
+    "rating": 3,
+    "visited_on": "2026-04-13"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s022",
+    "rating": 1,
+    "visited_on": "2025-07-17"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s124",
+    "rating": 4,
+    "visited_on": "2026-05-31"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s063",
+    "rating": 2,
+    "visited_on": "2025-12-25"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s074",
+    "rating": 3,
+    "visited_on": "2026-08-11"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s102",
+    "rating": 4,
+    "visited_on": "2026-02-28"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s125",
+    "rating": 4,
+    "visited_on": "2025-11-29"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s139",
+    "rating": 3,
+    "visited_on": "2025-07-24"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s114",
+    "rating": 4,
+    "visited_on": "2026-08-07"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s030",
+    "rating": 4,
+    "visited_on": "2026-08-29"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s062",
+    "rating": 3,
+    "visited_on": "2026-07-14"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s123",
+    "rating": 3,
+    "visited_on": "2025-07-13"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s011",
+    "rating": 3,
+    "visited_on": "2025-11-13"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s157",
+    "rating": 4,
+    "visited_on": "2025-06-21"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s171",
+    "rating": 3,
+    "visited_on": "2025-10-04"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s119",
+    "rating": 2,
+    "visited_on": "2025-10-19"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s161",
+    "rating": 3,
+    "visited_on": "2025-06-14"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s152",
+    "rating": 3,
+    "visited_on": "2025-09-21"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s008",
+    "rating": 3,
+    "visited_on": "2025-10-04"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s115",
+    "rating": 3,
+    "visited_on": "2026-07-21"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s118",
+    "rating": 2,
+    "visited_on": "2025-09-19"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s117",
+    "rating": 4,
+    "visited_on": "2025-06-11"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s065",
+    "rating": 2,
+    "visited_on": "2026-08-14"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s116",
+    "rating": 2,
+    "visited_on": "2025-12-30"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s120",
+    "rating": 3,
+    "visited_on": "2026-03-12"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s042",
+    "rating": 2,
+    "visited_on": "2025-12-29"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s166",
+    "rating": 3,
+    "visited_on": "2025-09-04"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s045",
+    "rating": 4,
+    "visited_on": "2026-04-18"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s023",
+    "rating": 2,
+    "visited_on": "2026-03-22"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s122",
+    "rating": 5,
+    "visited_on": "2026-06-18"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s126",
+    "rating": 2,
+    "visited_on": "2025-10-12"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s130",
+    "rating": 4,
+    "visited_on": "2026-07-17"
+  },
+  {
+    "user_id": "u30",
+    "stall_id": "s041",
+    "rating": 2,
+    "visited_on": "2026-07-16"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s120",
+    "rating": 5,
+    "visited_on": "2025-08-31"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s061",
+    "rating": 3,
+    "visited_on": "2026-08-02"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s050",
+    "rating": 3,
+    "visited_on": "2026-02-09"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s043",
+    "rating": 4,
+    "visited_on": "2026-06-09"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s046",
+    "rating": 3,
+    "visited_on": "2025-12-24"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s149",
+    "rating": 4,
+    "visited_on": "2026-03-21"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s055",
+    "rating": 3,
+    "visited_on": "2026-07-18"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s161",
+    "rating": 3,
+    "visited_on": "2025-12-26"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s058",
+    "rating": 2,
+    "visited_on": "2026-08-08"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s162",
+    "rating": 5,
+    "visited_on": "2025-11-23"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s164",
+    "rating": 4,
+    "visited_on": "2025-08-30"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s118",
+    "rating": 3,
+    "visited_on": "2026-05-29"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s044",
+    "rating": 3,
+    "visited_on": "2025-07-17"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s053",
+    "rating": 5,
+    "visited_on": "2025-09-03"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s045",
+    "rating": 4,
+    "visited_on": "2025-11-27"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s123",
+    "rating": 3,
+    "visited_on": "2026-04-28"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s038",
+    "rating": 3,
+    "visited_on": "2026-06-20"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s047",
+    "rating": 3,
+    "visited_on": "2025-07-19"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s011",
+    "rating": 3,
+    "visited_on": "2026-04-07"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s065",
+    "rating": 3,
+    "visited_on": "2025-07-02"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s056",
+    "rating": 3,
+    "visited_on": "2025-12-09"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s097",
+    "rating": 4,
+    "visited_on": "2025-07-19"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s057",
+    "rating": 4,
+    "visited_on": "2026-02-26"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s131",
+    "rating": 4,
+    "visited_on": "2025-06-07"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s037",
+    "rating": 3,
+    "visited_on": "2025-06-15"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s151",
+    "rating": 3,
+    "visited_on": "2026-07-15"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s039",
+    "rating": 4,
+    "visited_on": "2026-08-14"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s014",
+    "rating": 2,
+    "visited_on": "2025-07-06"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s109",
+    "rating": 4,
+    "visited_on": "2026-04-14"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s154",
+    "rating": 3,
+    "visited_on": "2026-02-11"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s072",
+    "rating": 5,
+    "visited_on": "2025-11-24"
+  },
+  {
+    "user_id": "u31",
+    "stall_id": "s083",
+    "rating": 4,
+    "visited_on": "2025-07-20"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s136",
+    "rating": 4,
+    "visited_on": "2026-09-04"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s120",
+    "rating": 4,
+    "visited_on": "2026-03-20"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s041",
+    "rating": 4,
+    "visited_on": "2026-06-14"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s129",
+    "rating": 4,
+    "visited_on": "2025-06-25"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s113",
+    "rating": 4,
+    "visited_on": "2025-11-03"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s031",
+    "rating": 3,
+    "visited_on": "2025-12-15"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s080",
+    "rating": 3,
+    "visited_on": "2025-06-27"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s028",
+    "rating": 4,
+    "visited_on": "2026-07-27"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s115",
+    "rating": 3,
+    "visited_on": "2026-06-14"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s128",
+    "rating": 1,
+    "visited_on": "2026-02-16"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s087",
+    "rating": 3,
+    "visited_on": "2025-12-07"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s169",
+    "rating": 3,
+    "visited_on": "2026-05-15"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s099",
+    "rating": 4,
+    "visited_on": "2025-07-21"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s030",
+    "rating": 1,
+    "visited_on": "2026-01-21"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s025",
+    "rating": 5,
+    "visited_on": "2026-05-31"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s118",
+    "rating": 2,
+    "visited_on": "2025-11-11"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s126",
+    "rating": 4,
+    "visited_on": "2025-09-14"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s123",
+    "rating": 3,
+    "visited_on": "2026-03-20"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s121",
+    "rating": 3,
+    "visited_on": "2026-09-16"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s134",
+    "rating": 4,
+    "visited_on": "2025-12-13"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s075",
+    "rating": 3,
+    "visited_on": "2026-09-17"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s110",
+    "rating": 4,
+    "visited_on": "2025-10-27"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s083",
+    "rating": 4,
+    "visited_on": "2026-07-22"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s137",
+    "rating": 4,
+    "visited_on": "2026-09-12"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s074",
+    "rating": 3,
+    "visited_on": "2025-12-17"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s015",
+    "rating": 2,
+    "visited_on": "2026-07-29"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s012",
+    "rating": 4,
+    "visited_on": "2025-12-23"
+  },
+  {
+    "user_id": "u32",
+    "stall_id": "s114",
+    "rating": 5,
+    "visited_on": "2025-06-23"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s102",
+    "rating": 3,
+    "visited_on": "2025-08-29"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s069",
+    "rating": 3,
+    "visited_on": "2025-11-27"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s109",
+    "rating": 3,
+    "visited_on": "2025-06-29"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s074",
+    "rating": 4,
+    "visited_on": "2025-12-18"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s103",
+    "rating": 4,
+    "visited_on": "2026-02-14"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s002",
+    "rating": 5,
+    "visited_on": "2025-07-03"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s118",
+    "rating": 4,
+    "visited_on": "2025-11-19"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s101",
+    "rating": 4,
+    "visited_on": "2026-05-03"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s125",
+    "rating": 3,
+    "visited_on": "2026-01-12"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s095",
+    "rating": 3,
+    "visited_on": "2025-07-06"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s115",
+    "rating": 4,
+    "visited_on": "2025-10-26"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s098",
+    "rating": 3,
+    "visited_on": "2026-03-13"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s110",
+    "rating": 3,
+    "visited_on": "2025-11-10"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s112",
+    "rating": 4,
+    "visited_on": "2025-06-30"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s104",
+    "rating": 4,
+    "visited_on": "2026-02-21"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s143",
+    "rating": 2,
+    "visited_on": "2026-03-01"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s052",
+    "rating": 5,
+    "visited_on": "2026-06-06"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s096",
+    "rating": 4,
+    "visited_on": "2026-09-21"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s023",
+    "rating": 4,
+    "visited_on": "2026-09-05"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s048",
+    "rating": 4,
+    "visited_on": "2025-07-24"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s097",
+    "rating": 2,
+    "visited_on": "2025-06-02"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s106",
+    "rating": 2,
+    "visited_on": "2026-03-16"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s039",
+    "rating": 4,
+    "visited_on": "2026-03-18"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s008",
+    "rating": 3,
+    "visited_on": "2025-08-01"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s152",
+    "rating": 4,
+    "visited_on": "2025-06-19"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s049",
+    "rating": 2,
+    "visited_on": "2026-03-16"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s082",
+    "rating": 3,
+    "visited_on": "2026-07-27"
+  },
+  {
+    "user_id": "u33",
+    "stall_id": "s088",
+    "rating": 3,
+    "visited_on": "2026-09-10"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s166",
+    "rating": 3,
+    "visited_on": "2026-07-16"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s137",
+    "rating": 2,
+    "visited_on": "2026-03-15"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s097",
+    "rating": 3,
+    "visited_on": "2025-08-23"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s061",
+    "rating": 3,
+    "visited_on": "2025-12-30"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s151",
+    "rating": 4,
+    "visited_on": "2025-12-27"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s049",
+    "rating": 3,
+    "visited_on": "2025-08-21"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s080",
+    "rating": 1,
+    "visited_on": "2026-05-25"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s131",
+    "rating": 2,
+    "visited_on": "2025-10-22"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s050",
+    "rating": 2,
+    "visited_on": "2025-07-29"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s100",
+    "rating": 1,
+    "visited_on": "2026-05-06"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s042",
+    "rating": 4,
+    "visited_on": "2025-07-20"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s127",
+    "rating": 2,
+    "visited_on": "2026-06-22"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s070",
+    "rating": 4,
+    "visited_on": "2026-01-29"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s134",
+    "rating": 2,
+    "visited_on": "2025-12-12"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s106",
+    "rating": 1,
+    "visited_on": "2026-03-28"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s103",
+    "rating": 4,
+    "visited_on": "2026-05-19"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s133",
+    "rating": 3,
+    "visited_on": "2026-01-12"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s089",
+    "rating": 3,
+    "visited_on": "2026-03-27"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s083",
+    "rating": 2,
+    "visited_on": "2025-06-11"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s079",
+    "rating": 2,
+    "visited_on": "2026-02-07"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s135",
+    "rating": 4,
+    "visited_on": "2026-08-28"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s130",
+    "rating": 3,
+    "visited_on": "2025-11-21"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s146",
+    "rating": 4,
+    "visited_on": "2025-07-06"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s140",
+    "rating": 2,
+    "visited_on": "2025-08-30"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s129",
+    "rating": 3,
+    "visited_on": "2025-12-19"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s160",
+    "rating": 1,
+    "visited_on": "2026-09-13"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s054",
+    "rating": 4,
+    "visited_on": "2026-07-10"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s169",
+    "rating": 4,
+    "visited_on": "2026-05-09"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s138",
+    "rating": 2,
+    "visited_on": "2025-10-28"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s051",
+    "rating": 2,
+    "visited_on": "2026-05-31"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s132",
+    "rating": 3,
+    "visited_on": "2025-11-29"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s172",
+    "rating": 3,
+    "visited_on": "2026-04-05"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s139",
+    "rating": 3,
+    "visited_on": "2026-04-15"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s015",
+    "rating": 3,
+    "visited_on": "2026-08-31"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s019",
+    "rating": 1,
+    "visited_on": "2025-12-04"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s014",
+    "rating": 1,
+    "visited_on": "2026-08-10"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s128",
+    "rating": 1,
+    "visited_on": "2026-02-22"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s093",
+    "rating": 2,
+    "visited_on": "2026-09-06"
+  },
+  {
+    "user_id": "u34",
+    "stall_id": "s171",
+    "rating": 3,
+    "visited_on": "2026-09-07"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s116",
+    "rating": 4,
+    "visited_on": "2025-09-10"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s079",
+    "rating": 2,
+    "visited_on": "2026-05-28"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s117",
+    "rating": 3,
+    "visited_on": "2025-09-04"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s159",
+    "rating": 3,
+    "visited_on": "2026-03-31"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s025",
+    "rating": 3,
+    "visited_on": "2026-08-17"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s113",
+    "rating": 4,
+    "visited_on": "2026-02-15"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s122",
+    "rating": 3,
+    "visited_on": "2025-06-04"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s119",
+    "rating": 4,
+    "visited_on": "2025-10-13"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s120",
+    "rating": 4,
+    "visited_on": "2025-08-13"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s083",
+    "rating": 3,
+    "visited_on": "2025-09-05"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s121",
+    "rating": 1,
+    "visited_on": "2026-05-25"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s109",
+    "rating": 3,
+    "visited_on": "2025-09-05"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s118",
+    "rating": 3,
+    "visited_on": "2025-09-04"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s134",
+    "rating": 4,
+    "visited_on": "2025-09-25"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s022",
+    "rating": 1,
+    "visited_on": "2025-08-23"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s082",
+    "rating": 1,
+    "visited_on": "2025-10-30"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s030",
+    "rating": 3,
+    "visited_on": "2026-04-04"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s115",
+    "rating": 2,
+    "visited_on": "2025-09-20"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s028",
+    "rating": 3,
+    "visited_on": "2026-01-05"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s065",
+    "rating": 2,
+    "visited_on": "2025-10-02"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s020",
+    "rating": 3,
+    "visited_on": "2026-02-27"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s129",
+    "rating": 5,
+    "visited_on": "2026-05-16"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s012",
+    "rating": 4,
+    "visited_on": "2025-10-07"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s048",
+    "rating": 4,
+    "visited_on": "2025-07-02"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s021",
+    "rating": 2,
+    "visited_on": "2025-07-03"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s124",
+    "rating": 2,
+    "visited_on": "2025-07-01"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s001",
+    "rating": 3,
+    "visited_on": "2026-04-14"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s099",
+    "rating": 3,
+    "visited_on": "2026-05-12"
+  },
+  {
+    "user_id": "u35",
+    "stall_id": "s126",
+    "rating": 2,
+    "visited_on": "2026-06-27"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s143",
+    "rating": 3,
+    "visited_on": "2026-07-22"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s152",
+    "rating": 2,
+    "visited_on": "2026-07-25"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s162",
+    "rating": 4,
+    "visited_on": "2026-08-30"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s017",
+    "rating": 5,
+    "visited_on": "2025-06-10"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s094",
+    "rating": 4,
+    "visited_on": "2025-12-14"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s142",
+    "rating": 5,
+    "visited_on": "2026-06-20"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s150",
+    "rating": 4,
+    "visited_on": "2026-02-26"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s101",
+    "rating": 4,
+    "visited_on": "2026-02-07"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s056",
+    "rating": 2,
+    "visited_on": "2026-06-08"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s146",
+    "rating": 3,
+    "visited_on": "2025-10-15"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s138",
+    "rating": 4,
+    "visited_on": "2025-09-07"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s153",
+    "rating": 3,
+    "visited_on": "2026-07-11"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s051",
+    "rating": 4,
+    "visited_on": "2025-12-04"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s120",
+    "rating": 4,
+    "visited_on": "2026-08-09"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s004",
+    "rating": 5,
+    "visited_on": "2025-09-23"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s102",
+    "rating": 2,
+    "visited_on": "2026-04-21"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s145",
+    "rating": 5,
+    "visited_on": "2026-04-14"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s141",
+    "rating": 3,
+    "visited_on": "2026-02-03"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s055",
+    "rating": 3,
+    "visited_on": "2025-11-11"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s147",
+    "rating": 3,
+    "visited_on": "2026-02-04"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s149",
+    "rating": 5,
+    "visited_on": "2026-03-02"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s156",
+    "rating": 3,
+    "visited_on": "2025-09-11"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s053",
+    "rating": 5,
+    "visited_on": "2026-09-16"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s011",
+    "rating": 3,
+    "visited_on": "2026-04-02"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s144",
+    "rating": 4,
+    "visited_on": "2025-07-02"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s151",
+    "rating": 3,
+    "visited_on": "2026-06-12"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s148",
+    "rating": 4,
+    "visited_on": "2026-02-14"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s129",
+    "rating": 3,
+    "visited_on": "2025-10-23"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s087",
+    "rating": 4,
+    "visited_on": "2026-05-25"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s095",
+    "rating": 4,
+    "visited_on": "2026-07-25"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s164",
+    "rating": 4,
+    "visited_on": "2025-09-13"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s042",
+    "rating": 4,
+    "visited_on": "2025-08-13"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s043",
+    "rating": 3,
+    "visited_on": "2026-04-26"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s155",
+    "rating": 3,
+    "visited_on": "2026-06-26"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s165",
+    "rating": 3,
+    "visited_on": "2026-07-03"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s046",
+    "rating": 3,
+    "visited_on": "2026-09-09"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s169",
+    "rating": 5,
+    "visited_on": "2025-12-13"
+  },
+  {
+    "user_id": "u36",
+    "stall_id": "s070",
+    "rating": 3,
+    "visited_on": "2026-03-12"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s101",
+    "rating": 4,
+    "visited_on": "2026-05-23"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s047",
+    "rating": 2,
+    "visited_on": "2025-12-30"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s082",
+    "rating": 4,
+    "visited_on": "2026-03-29"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s148",
+    "rating": 4,
+    "visited_on": "2025-06-19"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s057",
+    "rating": 3,
+    "visited_on": "2025-06-04"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s039",
+    "rating": 3,
+    "visited_on": "2025-11-26"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s049",
+    "rating": 3,
+    "visited_on": "2025-12-06"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s112",
+    "rating": 3,
+    "visited_on": "2026-02-16"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s051",
+    "rating": 3,
+    "visited_on": "2025-09-17"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s144",
+    "rating": 4,
+    "visited_on": "2025-08-17"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s138",
+    "rating": 2,
+    "visited_on": "2026-06-17"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s058",
+    "rating": 2,
+    "visited_on": "2026-04-15"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s009",
+    "rating": 3,
+    "visited_on": "2026-02-17"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s025",
+    "rating": 4,
+    "visited_on": "2025-12-16"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s015",
+    "rating": 4,
+    "visited_on": "2026-04-08"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s053",
+    "rating": 4,
+    "visited_on": "2025-10-10"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s033",
+    "rating": 4,
+    "visited_on": "2025-10-12"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s042",
+    "rating": 3,
+    "visited_on": "2025-12-19"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s087",
+    "rating": 4,
+    "visited_on": "2025-06-15"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s050",
+    "rating": 3,
+    "visited_on": "2026-01-15"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s127",
+    "rating": 3,
+    "visited_on": "2026-02-18"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s029",
+    "rating": 4,
+    "visited_on": "2026-06-30"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s169",
+    "rating": 4,
+    "visited_on": "2025-06-22"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s054",
+    "rating": 3,
+    "visited_on": "2025-12-16"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s046",
+    "rating": 3,
+    "visited_on": "2026-08-22"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s067",
+    "rating": 2,
+    "visited_on": "2025-09-14"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s040",
+    "rating": 3,
+    "visited_on": "2026-06-18"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s036",
+    "rating": 4,
+    "visited_on": "2025-10-31"
+  },
+  {
+    "user_id": "u37",
+    "stall_id": "s048",
+    "rating": 3,
+    "visited_on": "2026-08-28"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s115",
+    "rating": 1,
+    "visited_on": "2026-06-17"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s124",
+    "rating": 4,
+    "visited_on": "2025-08-11"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s121",
+    "rating": 3,
+    "visited_on": "2026-07-23"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s076",
+    "rating": 3,
+    "visited_on": "2025-12-20"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s039",
+    "rating": 2,
+    "visited_on": "2025-07-12"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s045",
+    "rating": 3,
+    "visited_on": "2026-02-12"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s106",
+    "rating": 1,
+    "visited_on": "2026-03-06"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s051",
+    "rating": 2,
+    "visited_on": "2025-06-03"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s089",
+    "rating": 3,
+    "visited_on": "2025-10-09"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s053",
+    "rating": 4,
+    "visited_on": "2025-08-24"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s145",
+    "rating": 2,
+    "visited_on": "2026-06-14"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s062",
+    "rating": 3,
+    "visited_on": "2025-11-19"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s075",
+    "rating": 4,
+    "visited_on": "2026-02-06"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s042",
+    "rating": 3,
+    "visited_on": "2026-07-14"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s008",
+    "rating": 3,
+    "visited_on": "2025-12-09"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s002",
+    "rating": 2,
+    "visited_on": "2026-05-03"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s001",
+    "rating": 2,
+    "visited_on": "2026-07-25"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s050",
+    "rating": 1,
+    "visited_on": "2026-06-19"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s118",
+    "rating": 3,
+    "visited_on": "2025-12-26"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s052",
+    "rating": 3,
+    "visited_on": "2025-09-24"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s041",
+    "rating": 2,
+    "visited_on": "2026-04-24"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s047",
+    "rating": 2,
+    "visited_on": "2026-05-22"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s167",
+    "rating": 2,
+    "visited_on": "2026-09-02"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s144",
+    "rating": 3,
+    "visited_on": "2026-09-01"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s046",
+    "rating": 1,
+    "visited_on": "2026-07-12"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s054",
+    "rating": 4,
+    "visited_on": "2026-02-09"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s057",
+    "rating": 2,
+    "visited_on": "2025-08-13"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s154",
+    "rating": 3,
+    "visited_on": "2025-11-04"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s004",
+    "rating": 2,
+    "visited_on": "2025-10-02"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s155",
+    "rating": 3,
+    "visited_on": "2025-09-16"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s007",
+    "rating": 2,
+    "visited_on": "2026-03-05"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s012",
+    "rating": 1,
+    "visited_on": "2025-09-06"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s134",
+    "rating": 1,
+    "visited_on": "2025-06-13"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s152",
+    "rating": 3,
+    "visited_on": "2025-09-15"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s100",
+    "rating": 3,
+    "visited_on": "2025-09-04"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s070",
+    "rating": 3,
+    "visited_on": "2025-07-05"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s109",
+    "rating": 2,
+    "visited_on": "2025-10-08"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s093",
+    "rating": 1,
+    "visited_on": "2025-12-01"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s074",
+    "rating": 3,
+    "visited_on": "2026-05-05"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s142",
+    "rating": 1,
+    "visited_on": "2025-11-01"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s049",
+    "rating": 2,
+    "visited_on": "2025-11-23"
+  },
+  {
+    "user_id": "u38",
+    "stall_id": "s168",
+    "rating": 3,
+    "visited_on": "2026-01-06"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s011",
+    "rating": 3,
+    "visited_on": "2025-09-12"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s008",
+    "rating": 3,
+    "visited_on": "2026-05-26"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s110",
+    "rating": 4,
+    "visited_on": "2025-12-18"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s172",
+    "rating": 3,
+    "visited_on": "2026-07-09"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s121",
+    "rating": 3,
+    "visited_on": "2025-06-07"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s033",
+    "rating": 5,
+    "visited_on": "2026-03-27"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s158",
+    "rating": 4,
+    "visited_on": "2026-02-27"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s148",
+    "rating": 3,
+    "visited_on": "2025-08-10"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s120",
+    "rating": 3,
+    "visited_on": "2025-11-11"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s030",
+    "rating": 3,
+    "visited_on": "2026-07-16"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s147",
+    "rating": 3,
+    "visited_on": "2025-09-18"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s164",
+    "rating": 3,
+    "visited_on": "2026-02-01"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s039",
+    "rating": 4,
+    "visited_on": "2025-09-18"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s109",
+    "rating": 4,
+    "visited_on": "2026-04-21"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s166",
+    "rating": 3,
+    "visited_on": "2026-04-18"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s129",
+    "rating": 3,
+    "visited_on": "2025-08-14"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s170",
+    "rating": 3,
+    "visited_on": "2026-05-08"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s161",
+    "rating": 4,
+    "visited_on": "2026-08-15"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s005",
+    "rating": 5,
+    "visited_on": "2026-06-25"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s136",
+    "rating": 5,
+    "visited_on": "2025-07-08"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s162",
+    "rating": 3,
+    "visited_on": "2026-03-17"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s154",
+    "rating": 3,
+    "visited_on": "2025-12-29"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s160",
+    "rating": 4,
+    "visited_on": "2026-08-04"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s134",
+    "rating": 3,
+    "visited_on": "2026-07-29"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s171",
+    "rating": 1,
+    "visited_on": "2025-10-13"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s167",
+    "rating": 1,
+    "visited_on": "2025-06-22"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s047",
+    "rating": 3,
+    "visited_on": "2026-08-20"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s020",
+    "rating": 2,
+    "visited_on": "2025-09-07"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s169",
+    "rating": 3,
+    "visited_on": "2026-05-10"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s056",
+    "rating": 2,
+    "visited_on": "2026-01-17"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s012",
+    "rating": 4,
+    "visited_on": "2026-04-07"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s040",
+    "rating": 3,
+    "visited_on": "2026-09-08"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s157",
+    "rating": 2,
+    "visited_on": "2025-08-05"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s112",
+    "rating": 2,
+    "visited_on": "2026-02-16"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s133",
+    "rating": 4,
+    "visited_on": "2026-08-30"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s168",
+    "rating": 2,
+    "visited_on": "2026-04-22"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s159",
+    "rating": 4,
+    "visited_on": "2025-08-20"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s046",
+    "rating": 2,
+    "visited_on": "2026-02-10"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s165",
+    "rating": 4,
+    "visited_on": "2026-07-01"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s063",
+    "rating": 4,
+    "visited_on": "2025-12-31"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s041",
+    "rating": 5,
+    "visited_on": "2025-07-04"
+  },
+  {
+    "user_id": "u39",
+    "stall_id": "s074",
+    "rating": 3,
+    "visited_on": "2026-07-03"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s011",
+    "rating": 2,
+    "visited_on": "2025-12-09"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s013",
+    "rating": 4,
+    "visited_on": "2025-10-17"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s018",
+    "rating": 4,
+    "visited_on": "2026-09-21"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s027",
+    "rating": 4,
+    "visited_on": "2025-08-14"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s121",
+    "rating": 2,
+    "visited_on": "2025-10-09"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s037",
+    "rating": 4,
+    "visited_on": "2025-12-10"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s151",
+    "rating": 4,
+    "visited_on": "2026-07-22"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s146",
+    "rating": 4,
+    "visited_on": "2025-07-05"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s036",
+    "rating": 3,
+    "visited_on": "2025-09-05"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s019",
+    "rating": 4,
+    "visited_on": "2026-02-09"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s029",
+    "rating": 4,
+    "visited_on": "2026-01-19"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s107",
+    "rating": 4,
+    "visited_on": "2026-07-26"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s026",
+    "rating": 3,
+    "visited_on": "2025-10-20"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s153",
+    "rating": 2,
+    "visited_on": "2025-10-15"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s083",
+    "rating": 2,
+    "visited_on": "2025-06-27"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s145",
+    "rating": 4,
+    "visited_on": "2026-02-06"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s010",
+    "rating": 3,
+    "visited_on": "2026-04-01"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s038",
+    "rating": 5,
+    "visited_on": "2025-11-08"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s020",
+    "rating": 5,
+    "visited_on": "2025-08-01"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s076",
+    "rating": 3,
+    "visited_on": "2026-06-25"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s012",
+    "rating": 3,
+    "visited_on": "2026-07-16"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s091",
+    "rating": 5,
+    "visited_on": "2025-07-06"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s015",
+    "rating": 5,
+    "visited_on": "2025-10-21"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s022",
+    "rating": 4,
+    "visited_on": "2025-08-05"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s024",
+    "rating": 5,
+    "visited_on": "2026-07-07"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s111",
+    "rating": 5,
+    "visited_on": "2026-01-03"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s047",
+    "rating": 3,
+    "visited_on": "2025-09-13"
+  },
+  {
+    "user_id": "u40",
+    "stall_id": "s128",
+    "rating": 3,
+    "visited_on": "2025-07-01"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s020",
+    "rating": 3,
+    "visited_on": "2025-11-23"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s095",
+    "rating": 4,
+    "visited_on": "2026-04-12"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s080",
+    "rating": 3,
+    "visited_on": "2025-12-16"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s094",
+    "rating": 5,
+    "visited_on": "2025-12-08"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s091",
+    "rating": 2,
+    "visited_on": "2025-08-13"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s039",
+    "rating": 4,
+    "visited_on": "2026-05-24"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s019",
+    "rating": 1,
+    "visited_on": "2026-05-16"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s008",
+    "rating": 3,
+    "visited_on": "2025-09-15"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s013",
+    "rating": 4,
+    "visited_on": "2025-09-20"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s006",
+    "rating": 3,
+    "visited_on": "2025-10-06"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s070",
+    "rating": 3,
+    "visited_on": "2026-06-02"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s032",
+    "rating": 2,
+    "visited_on": "2026-04-04"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s014",
+    "rating": 3,
+    "visited_on": "2026-08-24"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s015",
+    "rating": 3,
+    "visited_on": "2026-09-22"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s073",
+    "rating": 4,
+    "visited_on": "2026-03-16"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s072",
+    "rating": 5,
+    "visited_on": "2026-01-18"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s138",
+    "rating": 5,
+    "visited_on": "2026-06-01"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s121",
+    "rating": 4,
+    "visited_on": "2025-11-24"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s003",
+    "rating": 1,
+    "visited_on": "2025-12-02"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s143",
+    "rating": 2,
+    "visited_on": "2026-06-06"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s098",
+    "rating": 4,
+    "visited_on": "2026-01-15"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s009",
+    "rating": 3,
+    "visited_on": "2025-10-09"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s016",
+    "rating": 3,
+    "visited_on": "2025-11-26"
+  },
+  {
+    "user_id": "u41",
+    "stall_id": "s154",
+    "rating": 4,
+    "visited_on": "2025-10-12"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s102",
+    "rating": 5,
+    "visited_on": "2025-12-20"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s166",
+    "rating": 4,
+    "visited_on": "2025-09-25"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s168",
+    "rating": 5,
+    "visited_on": "2026-09-06"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s010",
+    "rating": 2,
+    "visited_on": "2026-01-25"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s094",
+    "rating": 3,
+    "visited_on": "2026-05-31"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s100",
+    "rating": 3,
+    "visited_on": "2026-01-24"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s112",
+    "rating": 3,
+    "visited_on": "2025-08-06"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s097",
+    "rating": 2,
+    "visited_on": "2025-08-14"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s106",
+    "rating": 4,
+    "visited_on": "2026-09-03"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s129",
+    "rating": 4,
+    "visited_on": "2025-12-09"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s108",
+    "rating": 3,
+    "visited_on": "2025-06-28"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s104",
+    "rating": 3,
+    "visited_on": "2026-08-29"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s077",
+    "rating": 4,
+    "visited_on": "2026-05-01"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s110",
+    "rating": 3,
+    "visited_on": "2025-10-29"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s043",
+    "rating": 3,
+    "visited_on": "2025-11-29"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s101",
+    "rating": 4,
+    "visited_on": "2025-06-21"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s030",
+    "rating": 3,
+    "visited_on": "2026-09-22"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s098",
+    "rating": 4,
+    "visited_on": "2025-07-05"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s158",
+    "rating": 3,
+    "visited_on": "2025-11-28"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s135",
+    "rating": 4,
+    "visited_on": "2026-02-15"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s062",
+    "rating": 5,
+    "visited_on": "2025-08-24"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s095",
+    "rating": 3,
+    "visited_on": "2026-06-17"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s132",
+    "rating": 5,
+    "visited_on": "2026-05-31"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s016",
+    "rating": 4,
+    "visited_on": "2026-02-16"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s099",
+    "rating": 3,
+    "visited_on": "2025-09-20"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s116",
+    "rating": 4,
+    "visited_on": "2026-01-16"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s070",
+    "rating": 3,
+    "visited_on": "2025-12-24"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s012",
+    "rating": 4,
+    "visited_on": "2025-11-25"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s107",
+    "rating": 3,
+    "visited_on": "2026-04-15"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s165",
+    "rating": 4,
+    "visited_on": "2026-07-16"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s137",
+    "rating": 4,
+    "visited_on": "2026-02-20"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s120",
+    "rating": 2,
+    "visited_on": "2026-06-24"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s134",
+    "rating": 3,
+    "visited_on": "2026-02-05"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s096",
+    "rating": 3,
+    "visited_on": "2026-05-08"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s139",
+    "rating": 5,
+    "visited_on": "2026-07-05"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s105",
+    "rating": 2,
+    "visited_on": "2026-02-15"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s007",
+    "rating": 4,
+    "visited_on": "2025-07-05"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s054",
+    "rating": 4,
+    "visited_on": "2026-07-28"
+  },
+  {
+    "user_id": "u42",
+    "stall_id": "s130",
+    "rating": 5,
+    "visited_on": "2025-12-11"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s130",
+    "rating": 4,
+    "visited_on": "2025-07-21"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s162",
+    "rating": 4,
+    "visited_on": "2026-05-24"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s115",
+    "rating": 2,
+    "visited_on": "2026-06-16"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s061",
+    "rating": 3,
+    "visited_on": "2025-12-22"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s119",
+    "rating": 2,
+    "visited_on": "2025-07-12"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s116",
+    "rating": 4,
+    "visited_on": "2025-10-03"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s117",
+    "rating": 3,
+    "visited_on": "2026-09-19"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s122",
+    "rating": 4,
+    "visited_on": "2026-05-06"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s125",
+    "rating": 3,
+    "visited_on": "2026-08-30"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s049",
+    "rating": 3,
+    "visited_on": "2025-06-30"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s149",
+    "rating": 3,
+    "visited_on": "2025-08-18"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s114",
+    "rating": 4,
+    "visited_on": "2025-12-30"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s113",
+    "rating": 3,
+    "visited_on": "2026-09-24"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s120",
+    "rating": 5,
+    "visited_on": "2025-12-07"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s068",
+    "rating": 3,
+    "visited_on": "2026-08-25"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s063",
+    "rating": 4,
+    "visited_on": "2026-02-07"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s123",
+    "rating": 3,
+    "visited_on": "2025-09-18"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s096",
+    "rating": 4,
+    "visited_on": "2025-12-25"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s102",
+    "rating": 4,
+    "visited_on": "2025-10-03"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s078",
+    "rating": 3,
+    "visited_on": "2026-04-09"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s148",
+    "rating": 4,
+    "visited_on": "2026-04-03"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s105",
+    "rating": 2,
+    "visited_on": "2025-11-15"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s095",
+    "rating": 3,
+    "visited_on": "2025-07-22"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s165",
+    "rating": 4,
+    "visited_on": "2025-07-13"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s170",
+    "rating": 5,
+    "visited_on": "2025-08-16"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s166",
+    "rating": 4,
+    "visited_on": "2026-03-04"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s074",
+    "rating": 1,
+    "visited_on": "2026-09-22"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s090",
+    "rating": 4,
+    "visited_on": "2026-07-12"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s121",
+    "rating": 3,
+    "visited_on": "2025-06-27"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s124",
+    "rating": 2,
+    "visited_on": "2025-06-02"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s014",
+    "rating": 2,
+    "visited_on": "2025-10-28"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s077",
+    "rating": 3,
+    "visited_on": "2026-08-06"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s084",
+    "rating": 4,
+    "visited_on": "2026-07-29"
+  },
+  {
+    "user_id": "u43",
+    "stall_id": "s075",
+    "rating": 4,
+    "visited_on": "2026-05-25"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s022",
+    "rating": 4,
+    "visited_on": "2026-05-04"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s131",
+    "rating": 3,
+    "visited_on": "2025-12-21"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s127",
+    "rating": 4,
+    "visited_on": "2026-01-17"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s158",
+    "rating": 1,
+    "visited_on": "2025-08-08"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s130",
+    "rating": 4,
+    "visited_on": "2026-05-29"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s101",
+    "rating": 2,
+    "visited_on": "2026-01-03"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s126",
+    "rating": 3,
+    "visited_on": "2026-06-20"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s136",
+    "rating": 2,
+    "visited_on": "2026-03-18"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s140",
+    "rating": 3,
+    "visited_on": "2026-08-20"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s124",
+    "rating": 4,
+    "visited_on": "2026-07-07"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s025",
+    "rating": 4,
+    "visited_on": "2025-07-18"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s041",
+    "rating": 4,
+    "visited_on": "2026-02-05"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s109",
+    "rating": 4,
+    "visited_on": "2025-06-22"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s073",
+    "rating": 3,
+    "visited_on": "2026-08-27"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s133",
+    "rating": 3,
+    "visited_on": "2026-02-09"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s171",
+    "rating": 2,
+    "visited_on": "2025-10-21"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s134",
+    "rating": 3,
+    "visited_on": "2025-12-31"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s092",
+    "rating": 3,
+    "visited_on": "2025-06-20"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s079",
+    "rating": 2,
+    "visited_on": "2026-05-31"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s138",
+    "rating": 2,
+    "visited_on": "2025-11-23"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s108",
+    "rating": 4,
+    "visited_on": "2025-06-02"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s061",
+    "rating": 3,
+    "visited_on": "2025-07-24"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s080",
+    "rating": 1,
+    "visited_on": "2026-02-12"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s027",
+    "rating": 4,
+    "visited_on": "2025-09-12"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s129",
+    "rating": 3,
+    "visited_on": "2026-05-04"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s021",
+    "rating": 5,
+    "visited_on": "2026-08-14"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s038",
+    "rating": 5,
+    "visited_on": "2026-02-27"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s139",
+    "rating": 3,
+    "visited_on": "2025-12-18"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s132",
+    "rating": 5,
+    "visited_on": "2026-04-10"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s047",
+    "rating": 2,
+    "visited_on": "2026-09-18"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s137",
+    "rating": 2,
+    "visited_on": "2026-06-10"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s107",
+    "rating": 3,
+    "visited_on": "2026-07-15"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s088",
+    "rating": 5,
+    "visited_on": "2026-03-30"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s039",
+    "rating": 4,
+    "visited_on": "2026-03-08"
+  },
+  {
+    "user_id": "u44",
+    "stall_id": "s100",
+    "rating": 3,
+    "visited_on": "2026-01-20"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s077",
+    "rating": 4,
+    "visited_on": "2026-05-21"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s024",
+    "rating": 4,
+    "visited_on": "2025-08-19"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s096",
+    "rating": 5,
+    "visited_on": "2026-08-22"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s156",
+    "rating": 4,
+    "visited_on": "2025-10-01"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s085",
+    "rating": 5,
+    "visited_on": "2025-07-04"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s058",
+    "rating": 3,
+    "visited_on": "2025-10-17"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s084",
+    "rating": 3,
+    "visited_on": "2025-08-31"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s010",
+    "rating": 3,
+    "visited_on": "2025-08-02"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s172",
+    "rating": 4,
+    "visited_on": "2026-02-12"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s066",
+    "rating": 3,
+    "visited_on": "2026-01-25"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s021",
+    "rating": 4,
+    "visited_on": "2026-02-17"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s091",
+    "rating": 5,
+    "visited_on": "2025-10-21"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s071",
+    "rating": 4,
+    "visited_on": "2026-07-08"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s122",
+    "rating": 5,
+    "visited_on": "2025-11-28"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s005",
+    "rating": 4,
+    "visited_on": "2025-08-30"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s170",
+    "rating": 3,
+    "visited_on": "2025-10-07"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s083",
+    "rating": 3,
+    "visited_on": "2026-06-07"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s124",
+    "rating": 5,
+    "visited_on": "2026-07-17"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s080",
+    "rating": 2,
+    "visited_on": "2026-07-12"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s100",
+    "rating": 3,
+    "visited_on": "2025-08-23"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s086",
+    "rating": 3,
+    "visited_on": "2025-08-14"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s090",
+    "rating": 2,
+    "visited_on": "2026-05-20"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s006",
+    "rating": 3,
+    "visited_on": "2026-03-01"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s082",
+    "rating": 5,
+    "visited_on": "2026-06-23"
+  },
+  {
+    "user_id": "u45",
+    "stall_id": "s094",
+    "rating": 5,
+    "visited_on": "2026-04-20"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s140",
+    "rating": 2,
+    "visited_on": "2025-07-18"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s139",
+    "rating": 4,
+    "visited_on": "2026-05-03"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s167",
+    "rating": 3,
+    "visited_on": "2025-08-10"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s024",
+    "rating": 4,
+    "visited_on": "2025-07-06"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s137",
+    "rating": 4,
+    "visited_on": "2025-06-03"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s092",
+    "rating": 4,
+    "visited_on": "2025-07-25"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s009",
+    "rating": 4,
+    "visited_on": "2026-07-20"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s059",
+    "rating": 2,
+    "visited_on": "2025-12-02"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s127",
+    "rating": 3,
+    "visited_on": "2025-08-21"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s086",
+    "rating": 4,
+    "visited_on": "2026-03-30"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s130",
+    "rating": 5,
+    "visited_on": "2025-10-05"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s132",
+    "rating": 3,
+    "visited_on": "2025-07-12"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s138",
+    "rating": 2,
+    "visited_on": "2026-09-14"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s081",
+    "rating": 4,
+    "visited_on": "2026-03-19"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s022",
+    "rating": 3,
+    "visited_on": "2026-07-21"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s128",
+    "rating": 3,
+    "visited_on": "2025-06-09"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s091",
+    "rating": 3,
+    "visited_on": "2025-08-04"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s152",
+    "rating": 3,
+    "visited_on": "2025-08-26"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s134",
+    "rating": 2,
+    "visited_on": "2026-05-16"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s050",
+    "rating": 2,
+    "visited_on": "2026-02-16"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s027",
+    "rating": 5,
+    "visited_on": "2026-05-15"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s004",
+    "rating": 5,
+    "visited_on": "2026-02-23"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s015",
+    "rating": 4,
+    "visited_on": "2026-06-09"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s171",
+    "rating": 1,
+    "visited_on": "2026-07-03"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s036",
+    "rating": 3,
+    "visited_on": "2025-09-30"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s168",
+    "rating": 4,
+    "visited_on": "2025-07-01"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s129",
+    "rating": 2,
+    "visited_on": "2025-12-16"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s094",
+    "rating": 4,
+    "visited_on": "2025-09-07"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s131",
+    "rating": 3,
+    "visited_on": "2025-08-09"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s070",
+    "rating": 3,
+    "visited_on": "2025-12-25"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s155",
+    "rating": 5,
+    "visited_on": "2026-03-24"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s021",
+    "rating": 3,
+    "visited_on": "2025-10-26"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s141",
+    "rating": 3,
+    "visited_on": "2026-08-30"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s135",
+    "rating": 4,
+    "visited_on": "2025-08-03"
+  },
+  {
+    "user_id": "u46",
+    "stall_id": "s011",
+    "rating": 2,
+    "visited_on": "2026-04-06"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s096",
+    "rating": 4,
+    "visited_on": "2025-07-26"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s077",
+    "rating": 3,
+    "visited_on": "2026-01-04"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s033",
+    "rating": 4,
+    "visited_on": "2025-10-07"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s030",
+    "rating": 3,
+    "visited_on": "2025-09-11"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s075",
+    "rating": 3,
+    "visited_on": "2026-04-18"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s095",
+    "rating": 2,
+    "visited_on": "2026-04-05"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s100",
+    "rating": 4,
+    "visited_on": "2026-03-17"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s016",
+    "rating": 4,
+    "visited_on": "2026-01-28"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s085",
+    "rating": 4,
+    "visited_on": "2026-04-16"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s170",
+    "rating": 4,
+    "visited_on": "2025-06-24"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s001",
+    "rating": 5,
+    "visited_on": "2026-08-14"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s110",
+    "rating": 4,
+    "visited_on": "2025-10-02"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s098",
+    "rating": 4,
+    "visited_on": "2026-02-28"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s108",
+    "rating": 3,
+    "visited_on": "2026-03-15"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s117",
+    "rating": 4,
+    "visited_on": "2025-06-09"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s103",
+    "rating": 3,
+    "visited_on": "2026-09-02"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s105",
+    "rating": 3,
+    "visited_on": "2025-08-10"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s151",
+    "rating": 4,
+    "visited_on": "2025-09-13"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s034",
+    "rating": 5,
+    "visited_on": "2026-01-26"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s102",
+    "rating": 3,
+    "visited_on": "2025-07-08"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s074",
+    "rating": 4,
+    "visited_on": "2025-07-23"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s093",
+    "rating": 4,
+    "visited_on": "2026-01-12"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s090",
+    "rating": 2,
+    "visited_on": "2026-06-03"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s104",
+    "rating": 4,
+    "visited_on": "2025-09-20"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s101",
+    "rating": 5,
+    "visited_on": "2025-12-07"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s017",
+    "rating": 4,
+    "visited_on": "2026-09-14"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s112",
+    "rating": 4,
+    "visited_on": "2026-03-28"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s122",
+    "rating": 2,
+    "visited_on": "2026-04-26"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s135",
+    "rating": 5,
+    "visited_on": "2026-03-29"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s109",
+    "rating": 4,
+    "visited_on": "2025-07-18"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s155",
+    "rating": 2,
+    "visited_on": "2025-11-22"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s126",
+    "rating": 4,
+    "visited_on": "2025-07-18"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s106",
+    "rating": 3,
+    "visited_on": "2026-07-18"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s036",
+    "rating": 3,
+    "visited_on": "2026-06-18"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s165",
+    "rating": 5,
+    "visited_on": "2026-04-19"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s158",
+    "rating": 3,
+    "visited_on": "2026-01-30"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s150",
+    "rating": 2,
+    "visited_on": "2026-05-19"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s130",
+    "rating": 5,
+    "visited_on": "2026-06-23"
+  },
+  {
+    "user_id": "u47",
+    "stall_id": "s063",
+    "rating": 4,
+    "visited_on": "2026-05-23"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s126",
+    "rating": 4,
+    "visited_on": "2025-09-17"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s056",
+    "rating": 3,
+    "visited_on": "2025-07-08"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s085",
+    "rating": 5,
+    "visited_on": "2025-09-26"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s164",
+    "rating": 3,
+    "visited_on": "2026-05-25"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s072",
+    "rating": 4,
+    "visited_on": "2026-02-22"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s168",
+    "rating": 3,
+    "visited_on": "2026-06-01"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s116",
+    "rating": 2,
+    "visited_on": "2026-09-05"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s063",
+    "rating": 3,
+    "visited_on": "2026-09-21"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s160",
+    "rating": 2,
+    "visited_on": "2026-03-27"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s147",
+    "rating": 4,
+    "visited_on": "2025-11-16"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s165",
+    "rating": 4,
+    "visited_on": "2026-04-01"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s162",
+    "rating": 3,
+    "visited_on": "2026-02-28"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s158",
+    "rating": 2,
+    "visited_on": "2026-01-16"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s075",
+    "rating": 4,
+    "visited_on": "2026-01-04"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s051",
+    "rating": 4,
+    "visited_on": "2026-01-14"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s171",
+    "rating": 3,
+    "visited_on": "2025-10-21"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s161",
+    "rating": 3,
+    "visited_on": "2026-09-18"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s163",
+    "rating": 5,
+    "visited_on": "2026-06-11"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s166",
+    "rating": 3,
+    "visited_on": "2025-09-09"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s111",
+    "rating": 1,
+    "visited_on": "2025-12-25"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s159",
+    "rating": 3,
+    "visited_on": "2026-01-25"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s041",
+    "rating": 5,
+    "visited_on": "2026-09-18"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s001",
+    "rating": 5,
+    "visited_on": "2026-07-13"
+  },
+  {
+    "user_id": "u48",
+    "stall_id": "s101",
+    "rating": 5,
+    "visited_on": "2026-05-22"
+  }
+]

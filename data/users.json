@@ -1,0 +1,626 @@
+[
+  {
+    "user_id": "u01",
+    "name": "Aarav K.",
+    "home_area": "Vile Parle",
+    "diet": "veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 600,
+    "favourite_categories": [
+      "kulfi_desserts",
+      "pav_bhaji",
+      "frankie_rolls"
+    ]
+  },
+  {
+    "user_id": "u02",
+    "name": "Ananya B.",
+    "home_area": "Juhu",
+    "diet": "veg",
+    "spice_tolerance": 2,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "kulfi_desserts",
+      "indo_chinese",
+      "juice_falooda"
+    ]
+  },
+  {
+    "user_id": "u03",
+    "name": "Rohan A.",
+    "home_area": "Girgaum Chowpatty",
+    "diet": "veg",
+    "spice_tolerance": 2,
+    "budget_per_person_inr": 300,
+    "favourite_categories": [
+      "vada_pav",
+      "indo_chinese",
+      "frankie_rolls"
+    ]
+  },
+  {
+    "user_id": "u04",
+    "name": "Isha A.",
+    "home_area": "Mohammed Ali Road",
+    "diet": "veg",
+    "spice_tolerance": 5,
+    "budget_per_person_inr": 500,
+    "favourite_categories": [
+      "south_indian",
+      "juice_falooda",
+      "frankie_rolls"
+    ]
+  },
+  {
+    "user_id": "u05",
+    "name": "Kabir T.",
+    "home_area": "Vile Parle",
+    "diet": "veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 1000,
+    "favourite_categories": [
+      "juice_falooda",
+      "misal",
+      "pav_bhaji"
+    ]
+  },
+  {
+    "user_id": "u06",
+    "name": "Meera S.",
+    "home_area": "Girgaum Chowpatty",
+    "diet": "non_veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 1000,
+    "favourite_categories": [
+      "indo_chinese",
+      "kebabs",
+      "misal"
+    ]
+  },
+  {
+    "user_id": "u07",
+    "name": "Vihaan S.",
+    "home_area": "Matunga",
+    "diet": "non_veg",
+    "spice_tolerance": 1,
+    "budget_per_person_inr": 250,
+    "favourite_categories": [
+      "indo_chinese",
+      "frankie_rolls",
+      "misal"
+    ]
+  },
+  {
+    "user_id": "u08",
+    "name": "Saanvi P.",
+    "home_area": "Juhu",
+    "diet": "non_veg",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 800,
+    "favourite_categories": [
+      "biryani",
+      "seafood",
+      "kulfi_desserts"
+    ]
+  },
+  {
+    "user_id": "u09",
+    "name": "Arjun V.",
+    "home_area": "Mohammed Ali Road",
+    "diet": "any",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 800,
+    "favourite_categories": [
+      "sandwich",
+      "vada_pav",
+      "misal"
+    ]
+  },
+  {
+    "user_id": "u10",
+    "name": "Diya A.",
+    "home_area": "Ghatkopar",
+    "diet": "jain",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "sandwich",
+      "juice_falooda",
+      "pav_bhaji"
+    ]
+  },
+  {
+    "user_id": "u11",
+    "name": "Aditya G.",
+    "home_area": "Fort",
+    "diet": "veg",
+    "spice_tolerance": 5,
+    "budget_per_person_inr": 500,
+    "favourite_categories": [
+      "indo_chinese",
+      "sandwich",
+      "vada_pav"
+    ]
+  },
+  {
+    "user_id": "u12",
+    "name": "Kavya K.",
+    "home_area": "Dadar",
+    "diet": "non_veg",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 500,
+    "favourite_categories": [
+      "indo_chinese",
+      "frankie_rolls",
+      "south_indian"
+    ]
+  },
+  {
+    "user_id": "u13",
+    "name": "Reyansh T.",
+    "home_area": "Bandra",
+    "diet": "non_veg",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 300,
+    "favourite_categories": [
+      "indo_chinese",
+      "kebabs",
+      "sandwich"
+    ]
+  },
+  {
+    "user_id": "u14",
+    "name": "Tara P.",
+    "home_area": "Bandra",
+    "diet": "non_veg",
+    "spice_tolerance": 2,
+    "budget_per_person_inr": 800,
+    "favourite_categories": [
+      "frankie_rolls",
+      "biryani",
+      "kulfi_desserts"
+    ]
+  },
+  {
+    "user_id": "u15",
+    "name": "Ishaan A.",
+    "home_area": "Ghatkopar",
+    "diet": "veg",
+    "spice_tolerance": 5,
+    "budget_per_person_inr": 300,
+    "favourite_categories": [
+      "misal",
+      "pav_bhaji",
+      "sandwich"
+    ]
+  },
+  {
+    "user_id": "u16",
+    "name": "Riya G.",
+    "home_area": "Vile Parle",
+    "diet": "veg",
+    "spice_tolerance": 1,
+    "budget_per_person_inr": 800,
+    "favourite_categories": [
+      "juice_falooda",
+      "kulfi_desserts",
+      "sandwich"
+    ]
+  },
+  {
+    "user_id": "u17",
+    "name": "Zoya M.",
+    "home_area": "Ghatkopar",
+    "diet": "jain",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "chaat",
+      "sandwich",
+      "juice_falooda"
+    ]
+  },
+  {
+    "user_id": "u18",
+    "name": "Farhan V.",
+    "home_area": "Matunga",
+    "diet": "veg",
+    "spice_tolerance": 1,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "misal",
+      "sandwich",
+      "south_indian"
+    ]
+  },
+  {
+    "user_id": "u19",
+    "name": "Neha M.",
+    "home_area": "Vile Parle",
+    "diet": "veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 500,
+    "favourite_categories": [
+      "chaat",
+      "misal",
+      "juice_falooda"
+    ]
+  },
+  {
+    "user_id": "u20",
+    "name": "Siddharth M.",
+    "home_area": "Mohammed Ali Road",
+    "diet": "non_veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "seafood",
+      "kebabs",
+      "kulfi_desserts"
+    ]
+  },
+  {
+    "user_id": "u21",
+    "name": "Pooja M.",
+    "home_area": "Matunga",
+    "diet": "non_veg",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "frankie_rolls",
+      "biryani",
+      "south_indian"
+    ]
+  },
+  {
+    "user_id": "u22",
+    "name": "Yusuf K.",
+    "home_area": "Ghatkopar",
+    "diet": "veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 300,
+    "favourite_categories": [
+      "juice_falooda",
+      "misal",
+      "pav_bhaji"
+    ]
+  },
+  {
+    "user_id": "u23",
+    "name": "Nikhil P.",
+    "home_area": "Bandra",
+    "diet": "veg",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 500,
+    "favourite_categories": [
+      "sandwich",
+      "vada_pav",
+      "juice_falooda"
+    ]
+  },
+  {
+    "user_id": "u24",
+    "name": "Sana N.",
+    "home_area": "Colaba",
+    "diet": "any",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 600,
+    "favourite_categories": [
+      "juice_falooda",
+      "kebabs",
+      "frankie_rolls"
+    ]
+  },
+  {
+    "user_id": "u25",
+    "name": "Rahul R.",
+    "home_area": "Ghatkopar",
+    "diet": "veg",
+    "spice_tolerance": 2,
+    "budget_per_person_inr": 500,
+    "favourite_categories": [
+      "vada_pav",
+      "pav_bhaji",
+      "indo_chinese"
+    ]
+  },
+  {
+    "user_id": "u26",
+    "name": "Priya K.",
+    "home_area": "Vile Parle",
+    "diet": "any",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 800,
+    "favourite_categories": [
+      "chai_snacks",
+      "biryani",
+      "juice_falooda"
+    ]
+  },
+  {
+    "user_id": "u27",
+    "name": "Omkar T.",
+    "home_area": "Juhu",
+    "diet": "non_veg",
+    "spice_tolerance": 2,
+    "budget_per_person_inr": 250,
+    "favourite_categories": [
+      "kebabs",
+      "seafood",
+      "kulfi_desserts"
+    ]
+  },
+  {
+    "user_id": "u28",
+    "name": "Sneha S.",
+    "home_area": "Dadar",
+    "diet": "any",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 800,
+    "favourite_categories": [
+      "kebabs",
+      "kulfi_desserts",
+      "juice_falooda"
+    ]
+  },
+  {
+    "user_id": "u29",
+    "name": "Kunal J.",
+    "home_area": "Juhu",
+    "diet": "veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 800,
+    "favourite_categories": [
+      "juice_falooda",
+      "misal",
+      "chaat"
+    ]
+  },
+  {
+    "user_id": "u30",
+    "name": "Aisha S.",
+    "home_area": "Girgaum Chowpatty",
+    "diet": "any",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 600,
+    "favourite_categories": [
+      "vada_pav",
+      "pav_bhaji",
+      "chai_snacks"
+    ]
+  },
+  {
+    "user_id": "u31",
+    "name": "Varun M.",
+    "home_area": "Ghatkopar",
+    "diet": "any",
+    "spice_tolerance": 5,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "pav_bhaji",
+      "seafood",
+      "sandwich"
+    ]
+  },
+  {
+    "user_id": "u32",
+    "name": "Mihika T.",
+    "home_area": "Girgaum Chowpatty",
+    "diet": "non_veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 800,
+    "favourite_categories": [
+      "biryani",
+      "seafood",
+      "south_indian"
+    ]
+  },
+  {
+    "user_id": "u33",
+    "name": "Tanvi V.",
+    "home_area": "Bandra",
+    "diet": "any",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "pav_bhaji",
+      "kulfi_desserts",
+      "misal"
+    ]
+  },
+  {
+    "user_id": "u34",
+    "name": "Imran D.",
+    "home_area": "Matunga",
+    "diet": "non_veg",
+    "spice_tolerance": 1,
+    "budget_per_person_inr": 250,
+    "favourite_categories": [
+      "seafood",
+      "indo_chinese",
+      "vada_pav"
+    ]
+  },
+  {
+    "user_id": "u35",
+    "name": "Gauri T.",
+    "home_area": "Girgaum Chowpatty",
+    "diet": "non_veg",
+    "spice_tolerance": 2,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "seafood",
+      "biryani",
+      "south_indian"
+    ]
+  },
+  {
+    "user_id": "u36",
+    "name": "Dev D.",
+    "home_area": "Vile Parle",
+    "diet": "veg",
+    "spice_tolerance": 5,
+    "budget_per_person_inr": 500,
+    "favourite_categories": [
+      "chaat",
+      "sandwich",
+      "misal"
+    ]
+  },
+  {
+    "user_id": "u37",
+    "name": "Nisha A.",
+    "home_area": "Ghatkopar",
+    "diet": "non_veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 300,
+    "favourite_categories": [
+      "frankie_rolls",
+      "biryani",
+      "sandwich"
+    ]
+  },
+  {
+    "user_id": "u38",
+    "name": "Harsh S.",
+    "home_area": "Ghatkopar",
+    "diet": "veg",
+    "spice_tolerance": 1,
+    "budget_per_person_inr": 250,
+    "favourite_categories": [
+      "indo_chinese",
+      "misal",
+      "pav_bhaji"
+    ]
+  },
+  {
+    "user_id": "u39",
+    "name": "Alia A.",
+    "home_area": "Fort",
+    "diet": "veg",
+    "spice_tolerance": 2,
+    "budget_per_person_inr": 500,
+    "favourite_categories": [
+      "south_indian",
+      "pav_bhaji",
+      "frankie_rolls"
+    ]
+  },
+  {
+    "user_id": "u40",
+    "name": "Parth J.",
+    "home_area": "Dadar",
+    "diet": "non_veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 1000,
+    "favourite_categories": [
+      "kebabs",
+      "biryani",
+      "vada_pav"
+    ]
+  },
+  {
+    "user_id": "u41",
+    "name": "Shreya V.",
+    "home_area": "Dadar",
+    "diet": "any",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 600,
+    "favourite_categories": [
+      "pav_bhaji",
+      "sandwich",
+      "seafood"
+    ]
+  },
+  {
+    "user_id": "u42",
+    "name": "Aman N.",
+    "home_area": "Bandra",
+    "diet": "any",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "chai_snacks",
+      "south_indian",
+      "indo_chinese"
+    ]
+  },
+  {
+    "user_id": "u43",
+    "name": "Juhi K.",
+    "home_area": "Girgaum Chowpatty",
+    "diet": "veg",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 250,
+    "favourite_categories": [
+      "frankie_rolls",
+      "chai_snacks",
+      "sandwich"
+    ]
+  },
+  {
+    "user_id": "u44",
+    "name": "Manav A.",
+    "home_area": "Matunga",
+    "diet": "any",
+    "spice_tolerance": 5,
+    "budget_per_person_inr": 500,
+    "favourite_categories": [
+      "biryani",
+      "kebabs",
+      "pav_bhaji"
+    ]
+  },
+  {
+    "user_id": "u45",
+    "name": "Fatima P.",
+    "home_area": "Colaba",
+    "diet": "non_veg",
+    "spice_tolerance": 5,
+    "budget_per_person_inr": 1000,
+    "favourite_categories": [
+      "frankie_rolls",
+      "kebabs",
+      "pav_bhaji"
+    ]
+  },
+  {
+    "user_id": "u46",
+    "name": "Rishi S.",
+    "home_area": "Matunga",
+    "diet": "any",
+    "spice_tolerance": 3,
+    "budget_per_person_inr": 800,
+    "favourite_categories": [
+      "kebabs",
+      "indo_chinese",
+      "misal"
+    ]
+  },
+  {
+    "user_id": "u47",
+    "name": "Anika S.",
+    "home_area": "Bandra",
+    "diet": "veg",
+    "spice_tolerance": 5,
+    "budget_per_person_inr": 1000,
+    "favourite_categories": [
+      "chai_snacks",
+      "frankie_rolls",
+      "vada_pav"
+    ]
+  },
+  {
+    "user_id": "u48",
+    "name": "Kiran M.",
+    "home_area": "Fort",
+    "diet": "non_veg",
+    "spice_tolerance": 4,
+    "budget_per_person_inr": 400,
+    "favourite_categories": [
+      "seafood",
+      "frankie_rolls",
+      "juice_falooda"
+    ]
+  }
+]
